@@ -285,14 +285,14 @@
       "tag": "Per Unit Cost",
       "patterns":[
         "how much per unit",
-	"how much tuition fee per unit",
-	"how much is your per units",
-  "how much per unit cost",
-  "how much is the tuition per unit",
-  "how much is the per unit cost per subject",
+	"tuition fee per unit",
+	"is your per units",
+  "per unit cost",
+  "is the tuition per unit",
+  "is the per unit cost per subject",
   "how much per unit cost in nursing",
-  "how much per unit cost in engineering",
-  "how much per unit cost in education"
+  "per unit cost in engineering",
+  "per unit cost in education"
          
       ],
       "response": [
