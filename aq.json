@@ -5,9 +5,10 @@
       "changable": 0,
       "patterns": [],
       "response": [
-        "Sorry, that question is not recognized in my data set. :("
+        "Sorry, that question is not recognized in my data set."
       ]
     },
+
     {
       "tag": "New Students for Second Sem, Transferees, Enrollment",
       "patterns": [
@@ -48,7 +49,7 @@
         "Is it possible to pay tuition via bank and online",
         "Can i pay via BANK?",
         "can i pay through cebuana",
-        "can i do magbank transfer",
+        "can i do bank transfer",
         "where can i pay online",
         "Can i ask the details for online payment of tuition?",
         "Can i know the details where i can pay online",
@@ -64,10 +65,12 @@
         "If only the money will be sent. Name of the receiver",
         "pwede maka ask NG account number Nyo. For me to put in the money Send",
         "can i ask for account number of the school For me to put in the money Send",
-        "where to send proof of payment thru ML?"
+        "where to send proof of payment thru ML?",
+	"where i send the proof of payment",
+	"can i make a bank transfer"
       ],
       "response": [
-        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office Cashier\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nInformation required:\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGES\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nFollow instruction from this : https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact us:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office Cashier(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nInformation required:\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGES\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nFollow instruction from this : https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact us:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
@@ -101,10 +104,24 @@
         "can i pay downpayment",
         "can I ask a copy of the tuition fee breakdown",
         "how much is the tuition fee",
-        "how much is the tuition"
+        "how much is the tuition",
+	"problem regarding my tuition",
+	"problem regarding my balance",
+	"is the business office open tommorow",
+	"is the cashier open today?",
+	"business office open on friday",
+	"business office open on saturday",
+	"business office open on sunday",
+	"business office open on monday",
+	"business office open on tuesday",
+	"business office open on wednesday",
+	"business office open thursday",
+	"can i pay today",
+	"can i pay now",
+	"can i pay tommorow"
       ],
       "response": [
-        "You can contact us through:\n\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
+        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
     },
     {
@@ -112,27 +129,39 @@
       "patterns": [
         "can i ask for the number of finance office",
         "can you give me the email of ndkc finance office",
-        "can i ask for email or contact number of business office",
+        "can i ask for email of business office",
         "can i ask for number of business office",
         "can I have the NDKC's business office contact number to call",
-        "I cant contact the number of Business Office"
+        "I cant contact the number of Business Office",
+	"can i have the finance email address",
+	"can i get the email of finance department",
+	"can i get the emailof finance",
+	"can request for finance email",
+	"can i ask for finance contact details",
+	"can i request for finance contact number",
+	"can i ask for the email of cashier",
+	"can i ask for the number of cashier",
+	"can i have the cashier contact"
       ],
       "response": [
-        "You can contact our Business Office through:\n\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
       "tag": "Enrollment Requirements",
       "patterns": [
-        "requirements for enrollment",
+        "what are the requirements for enrollment",
         "what are requirements to enroll for new students",
         "requirements for continue student",
         "requirements for old student",
         "what is requirements for transferee",
         "what is the requirements for graduate school",
-        "requirements for masteral",
-        "what to do after i paid",
-        "what is needed to enroll"
+        "what are the requirements for masteral",
+	"what to do after i paid",
+	"what is needed to enroll",
+	"what are the admission credentials needed for enrollment",
+	"what are the admission credentials for enrollment",
+	"what are the admission credentials"
       ],
       "response": [
         "Here are the College Admission Requirements:\nIncoming Freshmen:\n-Form138/Report Card\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1pc 2x2 ID picture\n\nFor Transferees:\n-Certificate of Transfer/Honorable Dismissal\n-Transcript of Records\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1 pc. 2x2 ID picture\n\nFor Incoming Freshmen and Transferees:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467365404995702/467363524995890\nFor Continuing Students:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467372941661615/467371908328385\n\nFor Graduate School(new enrollees):\n-Entrance Examination\n-Two(2) long brown folder\n-Transcript of Records(2 copies photocopy)\n-Honorable Dismissal/Certificate of Transfer Credentials(original)-for transferees\n-Colored Pictures with white background-3 pcs.(2x2)\n-PSA Birth Certificate(2 copies photocopy)\n-Photocopy of License-for nursing students only\n-PSA Marriage Certificate(female married student)\n-Reference Report \n-Application of Admission to Graduate Study\n-Login to:\nhttps://schoolmanagementsystem.cloud/globemb/ndkc.college/enrollment/apply\nwww.enroll.nddu.edu.ph/nddu/applicants"
@@ -142,22 +171,27 @@
       "tag": "Enrollment Fee",
       "patterns": [
         "how much need for enrollment",
-        "how much to enroll"
+        "how much need to enroll",
+	"can i go down",
+	"can i make downpayment",
+	"is it ok to down",
+	"is it ok to make downpayment".
+	"is ok to make down"
       ],
       "response": [
-        "3K"
+        "The downpayment during enrollment is ₱3,000"
       ]
     },
     {
       "tag": "Grade Inquiry",
       "patterns": [
-        "may I know how will I be able to see my grades?",
-        "where can i see my grades",
-        "where can i see my grade",
-        "can i get my grades now?",
-        "when can i have my grades",
-        "how to see my grades",
-        "how can i view my grades"
+	"may I know how will I be able to see my grades?",
+	"where can i see my grades",
+	"where can i see my grade",
+	"can i get my grades now?",
+	"when can i have my grades",
+	"how to see my grades",
+	"how can i view my grades"
       ],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concerns regarding School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
@@ -167,18 +201,19 @@
       "tag": "Registrar Files",
       "patterns": [
         "can i ask if i can get my TOR",
-        "can i ask for my cor",
-        "can i ask for my certificate of enrollment",
-        "can i request for a copy of sf10",
-        "can i request my diploma",
-        "can i request my diploma in your office",
-        "how ca i get my TOR",
-        "how to request authenticated diploma for employment requirement",
-        "can i get NSO in registrar now",
-        "how to get the school record of the person which is undergraduate",
-        "how can i get all my records in NDKC",
-        "how can i request TOR GOOD MORAL HONORABLE DISMISSAL",
-        "how can i GET TOR GOOD MORAL HONORABLE DISMISSAL"
+	"can i ask for my cor",
+	"can i ask for my certificate of enrollment",
+	"can i request for a copy of sf10",
+	"can i request my diploma",
+	"can i request my diploma in your office",
+	"how ca i get my TOR",
+	"how to request authenticated diploma for employment requirement",
+	"can i get NSO in registrar now",
+	"how to get the school record of the person which is undergraduate",
+	"how can i get all my records in NDKC",
+	"how can i request TOR GOOD MORAL HONORABLE DISMISSAL",
+	"how can i GET TOR GOOD MORAL HONORABLE DISMISSAL"
+       
       ],
       "response": [
         "The Office of College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office through:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -187,19 +222,110 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "Do you offer Social Work course?",
-        "Do you offer stenography course?",
-        "do you have accounting tech",
-        "do you have crim course",
-        "do you have criminology course",
-        "do you have accounting technology",
-        "May i know if what courses offered from your school",
-        "do you have architecture course",
-        "what courses does your school offer"
+	"Do you offer Social Work course?",
+	"Do you offer stenography course?",
+	"do you have accounting tech",
+	"do you have crim course",
+	"do you have criminology course",
+	"do you have accounting technology",
+	"May i know if what courses offered from your school",
+	"do you have architecture course",
+	"what courses does your school offer"
+
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
       ]
+    },
+    {
+      "tag": "Registrar Contact Details",
+      "patterns":[
+        "May I know registrar office number",
+	"asking for number of registrar office",
+	"What number to contact the registrar",
+	"can i ask for the number of registrar office",
+        "can you give me the email of ndkc registrar office",
+        "can i ask for email of registrar office",
+        "can i ask for number of registrar office",
+        "can I have the NDKC's registrar office contact number to call",
+        "I cant contact the number of registrar Office",
+	"can i have the registrar email address",
+	"can i get the email of registrar department",
+	"can i get the email of registrar",
+	"can request for registrar email",
+	"can i ask for registrar contact details",
+	"can i request for registrar contact number",
+	"can i have the registrar office number"
+         
+      ],
+      "responses": [
+        "You can contact our Registrar's Office through:\n\nOffice of the College Registrar:\nMobile No.: 0923-955-5278\nLandline: (064)\n577-1673 local 118\nEmail: registrar@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Permit",
+      "patterns":[
+        "where to get a permit",
+	"where can i get my permit",
+	"where can i request permit",
+	"can i get my permit now",
+	"i have problems regarding my permit",
+	"can i claim online permit",
+	"can i get a permit",
+	"i dont have exam permit",
+	"can i get my permit if i down",
+	"how to get permit for exam",
+	"how to get my permit"
+      ],
+      "responses": [
+        "Releasing of Exam Permit is at NDKC Business Office\n\nIf you have problems or other concern you can contact our Business Office through:\n\nNDKC Business Office:\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Per Unit Cost",
+      "patterns":[
+        "how much per unit",
+	"how much tuition fee per unit",
+	"how much is your per units",
+         
+      ],
+      "responses": [
+        "sikret"
+      ]
+    },
+    {
+      "tag": "Promissory",
+      "patterns":[
+        "i have some issues about promissory",
+	"i have problem about promi",
+	"i have problem about promissory",
+	"can i make promissory now",
+	"when is the promissory schedule",
+	"when is the sched of promissory",
+	"is promissory available in saturday",
+	"ask for requirements for promisorry" 
+         
+      ],
+      "responses": [
+        "Schedule of Promissory is 2 - 3 working days before exam\n\nIf you have other concerns or problems you can contact our Business office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "School Contact Details",
+      "patterns":[
+        "",
+         
+      ],
+      "responses": [
+        ""
+      ]
     }
+
+
+
+
+
+
+
   ]
 }
