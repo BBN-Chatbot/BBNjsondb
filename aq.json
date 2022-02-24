@@ -484,7 +484,8 @@
           "do you accept enrollee in graduate school",
           "enrolment of the graduate school",
           "enrollment of the graduate school",
-          "when is the enrollment in graduate school"
+          "when is the enrollment in graduate school",
+          "can i enroll in graduate school now"
            
         ],
         "response": [
@@ -507,7 +508,10 @@
       {
         "tag": "Earning Units",
         "patterns":[
-          "earning units"
+          "offer earning units",
+          "do you accept earning units",
+          "can you accept earning units"
+
            
         ],
         "response": [
