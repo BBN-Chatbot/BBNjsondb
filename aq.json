@@ -365,6 +365,18 @@
         "tag": "Intro Question",
         "patterns":[
           "can i ask",
+          "can i ask a question",
+          "i have a question",
+          "can i have a question"
+           
+        ],
+        "response": [
+          "Yes. How may I help you?"
+        ]
+      },
+      {
+        "tag": "",
+        "patterns":[
           ""
            
         ],
