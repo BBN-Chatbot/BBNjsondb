@@ -23,7 +23,9 @@
         "are you accepting transferees?",
         "are you accepting new students?",
         "are you accepting transferee?",
-        "are you accepting new student?"
+        "are you accepting new student?",
+        "do you accept enrolee in graduate school"
+
       ],
       "response": [
         "Yes, We accept New Students and Transferee\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students in both first and second semester within the enrollment schedule. For incoming freshmen and transferees kindly present your admission credentials."
