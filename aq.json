@@ -207,13 +207,12 @@
     {
       "tag": "Grade Inquiry",
       "patterns": [
-	"may I know how will I be able to see my grades?",
-	"where can i see my grades",
-	"where can i see my grade",
-	"can i get my grades now?",
-	"when can i have my grades",
-	"how to see my grades",
-	"how can i view my grades"
+	"know how will I be able to see my grades?",
+	"see my grades",
+	"get my grades now?",
+	"have my grades",
+	"see my grades",
+	"view my grades"
       ],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concerns regarding School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
