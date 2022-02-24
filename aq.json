@@ -173,17 +173,17 @@
       "tag": "Enrollment Requirements",
       "patterns": [
         "what are the requirements for enrollment",
-        "what are requirements to enroll for new students",
+        "requirements to enroll for new students",
         "requirements for continue student",
         "requirements for old student",
-        "what is requirements for transferee",
-        "what is the requirements for graduate school",
-        "what are the requirements for masteral",
-	"what to do after i paid",
-	"what is needed to enroll",
-	"what are the admission credentials needed for enrollment",
-	"what are the admission credentials for enrollment",
-	"what are the admission credentials"
+        "requirements for transferee",
+        "requirements for graduate school",
+        "requirements for masteral",
+	"to do after i paid",
+	"needed to enroll",
+	"admission credentials needed for enrollment",
+	"admission credentials for enrollment",
+	"admission credentials"
       ],
       "response": [
         "Here are the College Admission Requirements:\nIncoming Freshmen:\n-Form138/Report Card\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1pc 2x2 ID picture\n\nFor Transferees:\n-Certificate of Transfer/Honorable Dismissal\n-Transcript of Records\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1 pc. 2x2 ID picture\n\nFor Incoming Freshmen and Transferees:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467365404995702/467363524995890\nFor Continuing Students:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467372941661615/467371908328385\n\nFor Graduate School(new enrollees):\n-Entrance Examination\n-Two(2) long brown folder\n-Transcript of Records(2 copies photocopy)\n-Honorable Dismissal/Certificate of Transfer Credentials(original)-for transferees\n-Colored Pictures with white background-3 pcs.(2x2)\n-PSA Birth Certificate(2 copies photocopy)\n-Photocopy of License-for nursing students only\n-PSA Marriage Certificate(female married student)\n-Reference Report \n-Application of Admission to Graduate Study\n-Login to:\nhttps://schoolmanagementsystem.cloud/globemb/ndkc.college/enrollment/apply\nwww.enroll.nddu.edu.ph/nddu/applicants"
@@ -222,18 +222,18 @@
       "tag": "Registrar Files",
       "patterns": [
         "can i ask if i can get my TOR",
-	"can i ask for my cor",
-	"can i ask for my certificate of enrollment",
-	"can i request for a copy of sf10",
-	"can i request my diploma",
-	"can i request my diploma in your office",
-	"how ca i get my TOR",
-	"how to request authenticated diploma for employment requirement",
-	"can i get NSO in registrar now",
-	"how to get the school record of the person which is undergraduate",
-	"how can i get all my records in NDKC",
-	"how can i request TOR GOOD MORAL HONORABLE DISMISSAL",
-	"how can i GET TOR GOOD MORAL HONORABLE DISMISSAL"
+	"ask for my cor",
+	"ask for my certificate of enrollment",
+	"request for a copy of sf10",
+	"request my diploma",
+	"request my diploma in your office",
+	"can i get my TOR",
+	"request authenticated diploma for employment requirement",
+	"get NSO in registrar now",
+	"school record of the person which is undergraduate",
+	"get all my records in NDKC",
+	"request TOR GOOD MORAL HONORABLE DISMISSAL",
+	"GET TOR GOOD MORAL HONORABLE DISMISSAL"
        
       ],
       "response": [
@@ -243,21 +243,21 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-	"Do you offer Social Work course?",
-	"Do you offer stenography course?",
+	"offer Social Work course?",
+	"offer stenography course?",
 	"do you have accounting tech",
 	"do you have crim course",
 	"do you have criminology course",
 	"do you have accounting technology",
-	"May i know if what courses offered from your school",
+	"courses offered from your school",
 	"do you have architecture course",
-	"what courses does your school offer",
+	"courses does your school offer",
   "do you offer business ad",
-  "do you offer",
+  "do you offer education",
   "college courses do you offer",
   "undergraduate programs do you offer",
-  "do you offer graduate school programs",
-  "do you offer master of arts in",
+  "offer graduate school programs",
+  "offer master of arts in",
   "do you have prof ed",
   "master of arts"
 
@@ -269,23 +269,18 @@
     {
       "tag": "Registrar Contact Details",
       "patterns":[
-        "May I know registrar office number",
-	"asking for number of registrar office",
-	"What number to contact the registrar",
-	"can i ask for the number of registrar office",
-        "can you give me the email of ndkc registrar office",
-        "can i ask for email of registrar office",
-        "can i ask for number of registrar office",
-        "can I have the NDKC's registrar office contact number to call",
-        "I cant contact the number of registrar Office",
-	"can i have the registrar email address",
-	"can i get the email of registrar department",
-	"can i get the email of registrar",
-	"can request for registrar email",
-	"can i ask for registrar contact details",
-	"can i request for registrar contact number",
-	"can i have the registrar office number"
-         
+        "registrar office number",
+	"number of registrar office",
+	"number to contact the registrar",
+        "email of ndkc registrar office",
+        "email of registrar office",
+        "NDKC's registrar office contact number to call",
+        "contact the number of registrar Office",
+	"registrar email address",
+	"email of registrar department",
+	"request for registrar email",
+	"registrar contact details",
+	"request for registrar contact number"         
       ],
       "response": [
         "You can contact our Registrar's Office through:\n\nOffice of the College Registrar:\nMobile No.: 0923-955-5278\nLandline: (064)\n577-1673 local 118\nEmail: registrar@ndkc.edu.ph"
@@ -294,17 +289,15 @@
     {
       "tag": "Permit",
       "patterns":[
-        "where to get a permit",
-	"where can i get my permit",
-	"where can i request permit",
-	"can i get my permit now",
-	"i have problems regarding my permit",
-	"can i claim online permit",
-	"can i get a permit",
-	"i dont have exam permit",
-	"can i get my permit if i down",
-	"how to get permit for exam",
-	"how to get my permit"
+        "get a permit",
+	"get my permit",
+	"request permit",
+	"get my permit now",
+	"problems regarding my permit",
+	"claim online permit",
+	"dont have exam permit",
+	"get my permit if i down",
+	"get permit for exam"
       ],
       "response": [
         "Releasing of Exam Permit is at NDKC Business Office\n\nIf you have problems or other concern you can contact our Business Office through:\n\nNDKC Business Office:\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -334,11 +327,11 @@
         "i have some issues about promissory",
 	"i have problem about promi",
 	"i have problem about promissory",
-	"can i make promissory now",
-	"when is the promissory schedule",
-	"when is the sched of promissory",
-	"is promissory available in saturday",
-	"ask for requirements for promisorry" 
+	"make promissory now",
+	"promissory schedule",
+	"sched of promissory",
+	"promissory available in saturday",
+	"requirements for promisorry" 
          
       ],
       "response": [
