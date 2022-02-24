@@ -494,7 +494,9 @@
       {
         "tag": "Class Schedule",
         "patterns":[
-          "when will the class start"
+          "when will the class start",
+          "can i ask when is the class starting",
+          "first day of class"
 
            
         ],
