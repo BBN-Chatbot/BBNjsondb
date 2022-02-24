@@ -23,8 +23,7 @@
         "are you accepting transferees?",
         "are you accepting new students?",
         "are you accepting transferee?",
-        "are you accepting new student?",
-        "do you accept enrolee in graduate school"
+        "are you accepting new student?"
 
       ],
       "response": [
@@ -263,7 +262,11 @@
   "do you offer business ad",
   "do you offer",
   "college courses do you offer",
-  "undergraduate programs do you offer"
+  "undergraduate programs do you offer",
+  "do you offer graduate school programs",
+  "do you offer master of arts in",
+  "do you have prof ed",
+  "master of arts"
 
       ],
       "response": [
@@ -473,6 +476,40 @@
         ],
         "response": [
           "You can access ELMS on this link: https://elms.ndkcedu.ph/"
+        ]
+      },
+      {
+        "tag": "Graduate School",
+        "patterns":[
+          "do you accept enrollee in graduate school",
+          "enrolment of the graduate school",
+          "enrollment of the graduate school",
+          "when is the enrollment in graduate school"
+           
+        ],
+        "response": [
+          "You can reach the graduate school through:\n\nMobile No.:        \nLandline:             \nEmail:"
+        ]
+      },
+      {
+        "tag": "Class Schedule",
+        "patterns":[
+          "when will the class start",
+
+           
+        ],
+        "response": [
+          ""
+        ]
+      },
+      {
+        "tag": "Earning Units",
+        "patterns":[
+          "earning units"
+           
+        ],
+        "response": [
+          "Please contact the Office of the Vice President through : \n\nMobile No.:           \nLandline:        \nEmail: "
         ]
       }
 
