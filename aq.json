@@ -5,10 +5,9 @@
       "changable": 0,
       "patterns": [],
       "response": [
-        "Sorry, that question is not recognized in my data set."
+        "Sorry, that question is not recognized in my data set. :("
       ]
     },
-
     {
       "tag": "New Students for Second Sem, Transferees, Enrollment",
       "patterns": [
@@ -132,8 +131,8 @@
         "what is requirements for transferee",
         "what is the requirements for graduate school",
         "requirements for masteral",
-	"what to do after i paid",
-	"what is needed to enroll"
+        "what to do after i paid",
+        "what is needed to enroll"
       ],
       "response": [
         "Here are the College Admission Requirements:\nIncoming Freshmen:\n-Form138/Report Card\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1pc 2x2 ID picture\n\nFor Transferees:\n-Certificate of Transfer/Honorable Dismissal\n-Transcript of Records\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1 pc. 2x2 ID picture\n\nFor Incoming Freshmen and Transferees:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467365404995702/467363524995890\nFor Continuing Students:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467372941661615/467371908328385\n\nFor Graduate School(new enrollees):\n-Entrance Examination\n-Two(2) long brown folder\n-Transcript of Records(2 copies photocopy)\n-Honorable Dismissal/Certificate of Transfer Credentials(original)-for transferees\n-Colored Pictures with white background-3 pcs.(2x2)\n-PSA Birth Certificate(2 copies photocopy)\n-Photocopy of License-for nursing students only\n-PSA Marriage Certificate(female married student)\n-Reference Report \n-Application of Admission to Graduate Study\n-Login to:\nhttps://schoolmanagementsystem.cloud/globemb/ndkc.college/enrollment/apply\nwww.enroll.nddu.edu.ph/nddu/applicants"
@@ -152,13 +151,13 @@
     {
       "tag": "Grade Inquiry",
       "patterns": [
-	"may I know how will I be able to see my grades?",
-	"where can i see my grades",
-	"where can i see my grade",
-	"can i get my grades now?",
-	"when can i have my grades",
-	"how to see my grades",
-	"how can i view my grades"
+        "may I know how will I be able to see my grades?",
+        "where can i see my grades",
+        "where can i see my grade",
+        "can i get my grades now?",
+        "when can i have my grades",
+        "how to see my grades",
+        "how can i view my grades"
       ],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concerns regarding School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
@@ -168,19 +167,18 @@
       "tag": "Registrar Files",
       "patterns": [
         "can i ask if i can get my TOR",
-	"can i ask for my cor",
-	"can i ask for my certificate of enrollment",
-	"can i request for a copy of sf10",
-	"can i request my diploma",
-	"can i request my diploma in your office",
-	"how ca i get my TOR",
-	"how to request authenticated diploma for employment requirement",
-	"can i get NSO in registrar now",
-	"how to get the school record of the person which is undergraduate",
-	"how can i get all my records in NDKC",
-	"how can i request TOR GOOD MORAL HONORABLE DISMISSAL",
-	"how can i GET TOR GOOD MORAL HONORABLE DISMISSAL"
-       
+        "can i ask for my cor",
+        "can i ask for my certificate of enrollment",
+        "can i request for a copy of sf10",
+        "can i request my diploma",
+        "can i request my diploma in your office",
+        "how ca i get my TOR",
+        "how to request authenticated diploma for employment requirement",
+        "can i get NSO in registrar now",
+        "how to get the school record of the person which is undergraduate",
+        "how can i get all my records in NDKC",
+        "how can i request TOR GOOD MORAL HONORABLE DISMISSAL",
+        "how can i GET TOR GOOD MORAL HONORABLE DISMISSAL"
       ],
       "response": [
         "The Office of College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office through:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -189,27 +187,19 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-	"Do you offer Social Work course?",
-	"Do you offer stenography course?",
-	"do you have accounting tech",
-	"do you have crim course",
-	"do you have criminology course",
-	"do you have accounting technology",
-	"May i know if what courses offered from your school",
-	"do you have architecture course",
-	"what courses does your school offer"
-
+        "Do you offer Social Work course?",
+        "Do you offer stenography course?",
+        "do you have accounting tech",
+        "do you have crim course",
+        "do you have criminology course",
+        "do you have accounting technology",
+        "May i know if what courses offered from your school",
+        "do you have architecture course",
+        "what courses does your school offer"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
       ]
     }
-
-
-
-
-
-
-
   ]
 }
