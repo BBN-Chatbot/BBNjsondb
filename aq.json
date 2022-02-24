@@ -158,7 +158,16 @@
 	"can i request for finance contact number",
 	"can i ask for the email of cashier",
 	"can i ask for the number of cashier",
-	"can i have the cashier contact"
+	"can i have the cashier contact",
+  "registrar open on friday",
+  "cashier open on saturday",
+  "cashier open on sunday",
+  "cashier open on monday",
+  "cashier open on tuesday",
+  "cashier open on wednesday",
+  "cashier open on thursday",
+  "cashier open on tommorow",
+  "cashier open on today"
       ],
       "response": [
         "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -392,13 +401,17 @@
         ]
       },
       {
-        "tag": "",
+        "tag": "sss",
         "patterns":[
-          ""
+          "wed",
+          "mon",
+          "tues",
+          "sat",
+          "sun"
            
         ],
         "response": [
-          ""
+          "adlaw sa kalibutan"
         ]
       }
 
