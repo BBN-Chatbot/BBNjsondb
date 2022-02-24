@@ -116,6 +116,20 @@
 	"business office open on tuesday",
 	"business office open on wednesday",
 	"business office open thursday",
+  "cashier open on friday",
+	"cashier open on saturday",
+	"cashier office open on sunday",
+	"cashier office open on monday",
+	"cashier office open on tuesday",
+	"cashier office open on wednesday",
+	"cashier office open thursday",
+  "finance open on friday",
+	"finance office open on saturday",
+	"finance open on sunday",
+	"finance open on monday",
+	"finance open on tuesday",
+	"finance open on wednesday",
+	"finace open thursday",
 	"can i pay today",
 	"can i pay now",
 	"can i pay tommorow"
@@ -179,7 +193,7 @@
 	"is ok to make down"
       ],
       "response": [
-        "The downpayment during enrollment is ₱3,000"
+        "The minimum downpayment during enrollment is ₱3,000"
       ]
     },
     {
@@ -371,7 +385,7 @@
            
         ],
         "response": [
-          "oijsdfijsdojfiosdjf"
+          "Yes? How may I help you ?"
         ]
       },
       {
