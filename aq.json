@@ -256,7 +256,9 @@
 	"do you have accounting technology",
 	"May i know if what courses offered from your school",
 	"do you have architecture course",
-	"what courses does your school offer"
+	"what courses does your school offer",
+  "do you offer business ad",
+  "do you offer"
 
       ],
       "response": [
@@ -384,7 +386,7 @@
            
         ],
         "response": [
-          "Tan awa sa page oi"
+          "Enrollment schedule is to be announced\n\nPlease stay tuned to our NDKC page: https://www.facebook.com/ndkcofficial/ for future announcement."
         ]
       },
       {
@@ -401,17 +403,71 @@
         ]
       },
       {
-        "tag": "sss",
+        "tag": "Entrance Exam",
         "patterns":[
-          "what is this day wed",
-          "what is this day mon",
-          "what is this day tues",
-          "what is this day sat",
-          "what is this day fri"
+         "When is the schedule for entrance examination",
+         "when is the entrance exam",
+         "when is the entrance exam sched",
+         "when is the online entrance exam",
+         "can i take entrance exam online"
+
+        ],
+        "response": [
+        "Entrance Examination schedule is to be announced\n\nPlease stay tuned to our NDKC page: https://www.facebook.com/ndkcofficial/ for future announcements."
+        ]
+      },
+      {
+        "tag": "School Details",
+        "patterns":[
+          "can you tell me about the school",
+          "Can you tell me more about this educational institution?",
+          "describe the school",
+          "tell me more about ndkc"
            
         ],
         "response": [
-          "adlaw sa kalibutan"
+          ""
+        ]
+      },
+      {
+        "tag": "Exam Schedule",
+        "patterns":[
+          "when is the final exam",
+          "When is the finals",
+          "when is the midterm exam",
+          "is there an exam in school today",
+          "do we have schedule for exam",
+          "schedule for midterm examination",
+          "when is midterm examination",
+          "when is final examination"
+           
+        ],
+        "response": [
+          "Exam schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
+        ]
+      },
+      {
+        "tag": "Orientation Schedule",
+        "patterns":[
+          "When is the orientation",
+          "when is the orientation schedule",
+          "about class orientation",
+          "orientation for freshmen",
+          "start of orientation"
+           
+        ],
+        "response": [
+          "Orientation schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
+        ]
+      },
+      {
+        "tag": "ELMS",
+        "patterns":[
+          "May I ask how can I sign in to the elms?",
+          "link for elms"  
+        ],
+        "response": [
+          "You can access ELMS on this link: https://elms.ndkcedu.ph/"
         ]
       }
 
