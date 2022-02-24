@@ -5,7 +5,7 @@
       "changable": 0,
       "patterns": [],
       "response": [
-        "Sorry, that question is not recognized in my data set."
+        "Thanks for messaging us. We're away and can't respond to you right now. We appreciate you reaching out. \n\nThank you!"
       ]
     },
 
@@ -26,7 +26,7 @@
         "are you accepting new student?"
       ],
       "response": [
-        "Enrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students in both first and second semester within the enrollment schedule. For incoming freshmen and transferees kindly present your admission credentials."
+        "Yes, We accept New Students and Transferee\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students in both first and second semester within the enrollment schedule. For incoming freshmen and transferees kindly present your admission credentials."
       ]
     },
     {
@@ -286,11 +286,17 @@
       "patterns":[
         "how much per unit",
 	"how much tuition fee per unit",
-	"how much is your per units"
+	"how much is your per units",
+  "how much per unit cost",
+  "how much is the tuition per unit",
+  "how much is the per unit cost per subject",
+  "how much per unit cost in nursing",
+  "how much per unit cost in engineering",
+  "how much per unit cost in education"
          
       ],
       "response": [
-        "The tuition fee per unit may vary per course and year level."
+        "The tuition fee per unit may vary per course and year level.\n\nFor more information you can contact our Business Office\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
@@ -353,6 +359,17 @@
         ],
         "response": [
           "Tan awa sa page oi"
+        ]
+      },
+      {
+        "tag": "Intro Question",
+        "patterns":[
+          "can i ask",
+          ""
+           
+        ],
+        "response": [
+          ""
         ]
       }
 
