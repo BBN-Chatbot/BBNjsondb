@@ -523,7 +523,8 @@
         "patterns":[
           "Can i request an ID",
           "how can i request an ID",
-          "can you issue ID"
+          "can you issue ID",
+          "can i request an ID"
            
         ],
         "response": [
