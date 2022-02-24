@@ -67,7 +67,8 @@
         "can i ask for account number of the school For me to put in the money Send",
         "where to send proof of payment thru ML?",
       	"where i send the proof of payment",
-      	"can i make a bank transfer"
+      	"can i make a bank transfer",
+        "can i have the G-CASH account"
       ],
       "response": [
         "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office Cashier(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nInformation required:\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGES\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nFollow instruction from this : https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact us:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -356,7 +357,7 @@
   "can i have contact number of the school"
       ],
       "response": [
-        "You can reach us through this website:\nresearch@ndkc.edu.com"
+        "You can reach us through this email:\nresearch@ndkc.edu.com"
       ]
     },
       {
