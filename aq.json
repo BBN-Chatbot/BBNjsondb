@@ -517,6 +517,18 @@
         "response": [
           "Please contact the Office of the Vice President through : \n\nMobile No.:           \nLandline:        \nEmail: "
         ]
+      },
+      {
+        "tag": "ID",
+        "patterns":[
+          "Can i request an ID",
+          "how can i request an ID",
+          "can you issue an ID"
+           
+        ],
+        "response": [
+          "ADTO SCHOOL OIPS"
+        ]
       }
 
 
