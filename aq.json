@@ -66,8 +66,8 @@
         "pwede maka ask NG account number Nyo. For me to put in the money Send",
         "can i ask for account number of the school For me to put in the money Send",
         "where to send proof of payment thru ML?",
-	"where i send the proof of payment",
-	"can i make a bank transfer"
+      	"where i send the proof of payment",
+      	"can i make a bank transfer"
       ],
       "response": [
         "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office Cashier(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nInformation required:\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGES\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nFollow instruction from this : https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact us:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -121,7 +121,7 @@
 	"can i pay tommorow"
       ],
       "response": [
-        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
+        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you can view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
     },
     {
@@ -290,7 +290,7 @@
          
       ],
       "response": [
-        "sikret"
+        "The tuition fee per unit may vary per course and year level."
       ]
     },
     {
@@ -313,12 +313,48 @@
     {
       "tag": "School Contact Details",
       "patterns":[
-        ""
+  "can i ask the email of the school",
+	"does the school have contact number",
+	"does the school have email address",
+	"does the school have contact number",
+  "can i have contact number of the school"
       ],
       "response": [
-        ""
+        "You can reach us through this website:\nresearch@ndkc.edu.com"
       ]
-    }
+    },
+      {
+        "tag": "Discounts",
+        "patterns":[
+          "my discount has been applied",
+          "if deducted to my tuition",
+          "Is the discount applicable to all honors?",
+          "have I reached the opportunity to avail the discount"
+           
+        ],
+        "response": [
+          "Only top 10 honors can avail discounts"
+        ]
+      },
+      {
+        "tag": "Enrollment Schedule",
+        "patterns":[
+          "is there online enrollment",
+          "is there a way to enroll online",
+          "when is the online enrollment for college",
+          "are you open for enrollment",
+          "is online enrollment already open",
+          "are you open now for enrollment",
+          "when is the enrollment",
+          "when is the schedule for enrollment",
+          "enrollment has already started now",
+          "when is the last day of enrollment"
+           
+        ],
+        "response": [
+          "Tan awa sa page oi"
+        ]
+      }
 
 
 
