@@ -258,7 +258,7 @@
 	"can i have the registrar office number"
          
       ],
-      "responses": [
+      "response": [
         "You can contact our Registrar's Office through:\n\nOffice of the College Registrar:\nMobile No.: 0923-955-5278\nLandline: (064)\n577-1673 local 118\nEmail: registrar@ndkc.edu.ph"
       ]
     },
@@ -277,7 +277,7 @@
 	"how to get permit for exam",
 	"how to get my permit"
       ],
-      "responses": [
+      "response": [
         "Releasing of Exam Permit is at NDKC Business Office\n\nIf you have problems or other concern you can contact our Business Office through:\n\nNDKC Business Office:\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
@@ -289,7 +289,7 @@
 	"how much is your per units"
          
       ],
-      "responses": [
+      "response": [
         "sikret"
       ]
     },
@@ -306,7 +306,7 @@
 	"ask for requirements for promisorry" 
          
       ],
-      "responses": [
+      "response": [
         "Schedule of Promissory is 2 - 3 working days before exam\n\nIf you have other concerns or problems you can contact our Business office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
@@ -315,7 +315,7 @@
       "patterns":[
         ""
       ],
-      "responses": [
+      "response": [
         ""
       ]
     }
