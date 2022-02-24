@@ -175,7 +175,7 @@
 	"can i go down",
 	"can i make downpayment",
 	"is it ok to down",
-	"is it ok to make downpayment".
+	"is it ok to make downpayment",
 	"is ok to make down"
       ],
       "response": [
@@ -286,7 +286,7 @@
       "patterns":[
         "how much per unit",
 	"how much tuition fee per unit",
-	"how much is your per units",
+	"how much is your per units"
          
       ],
       "responses": [
@@ -313,8 +313,7 @@
     {
       "tag": "School Contact Details",
       "patterns":[
-        "",
-         
+        ""
       ],
       "responses": [
         ""
