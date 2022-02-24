@@ -403,11 +403,11 @@
       {
         "tag": "sss",
         "patterns":[
-          "wed",
-          "mon",
-          "tues",
-          "sat",
-          "sun"
+          "what is this day wed",
+          "what is this day mon",
+          "what is this day tues",
+          "what is this day sat",
+          "what is this day fri"
            
         ],
         "response": [
