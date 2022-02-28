@@ -1,0 +1,7 @@
+{
+ "setVars":{
+     "threshold": 0.21,
+     "simDiff": 0.13,
+     "2ndThreshold": 0.30
+ }
+}
