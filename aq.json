@@ -89,10 +89,11 @@
     {
       "tag": "Business hours (Registrar)",
       "patterns": [
-        "is the registrar registrars office open on monday tuesday wednesday thursday friday saturday saturday sunday tommorow today"
+        "is the registrar registrars office open on monday tuesday wednesday thursday friday saturday saturday sunday ",
+        "when is the registrar open","is registrars office open tommorow today"
       ],
       "response": [
-        "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)"
+        "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns you can reach the Registrar's Office through:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
     },
     {
@@ -343,5 +344,5 @@
       ]
     }
   ]
-  
+
 }
