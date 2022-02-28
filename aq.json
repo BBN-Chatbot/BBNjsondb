@@ -20,7 +20,7 @@
     {
       "tag": "Payment",
       "patterns": [
-        "what are the reciever details, account number to pay online for online transactions, steps to send my payment for tuition",
+        "can i ask what are the reciever details, account number to pay online for online transactions, steps to send my payment for tuition",
         "can i send it my money through via gcash, g-cash, bank transfer, cebuana, ML remittance, m lhuillier"
       ],
       "response": [
