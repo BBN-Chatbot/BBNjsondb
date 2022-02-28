@@ -314,10 +314,8 @@
     {
       "tag": "Class Schedule",
       "patterns": [
-        "when will the class start",
-        "can i ask when is the class starting",
-        "first day of class",
-        "start of class in college"
+        "when will the class start,first day of class, start of class",
+        "can i ask when is the class starting"
       ],
       "response": [
         "Class schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
@@ -337,11 +335,8 @@
     {
       "tag": "ID",
       "patterns": [
-        "Can i request an ID",
-        "how can i request an ID",
-        "can you issue ID",
-        "can i request an IDs",
-        "issue IDs"
+        "Can i request an ID,how can you issue an id"
+    
       ],
       "response": [
         "ADTO SCHOOL OIPS"
