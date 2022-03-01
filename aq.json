@@ -71,8 +71,6 @@
     {
       "tag": "Business Hours (Finance)",
       "patterns": [
-        "is the business office open tommorow",
-        "is the cashier open today?",
         "business office or cashier or finance open on monday tuesday wednesday thursday friday",
         "can i pay today, now, tommorow"
       ],
@@ -115,8 +113,8 @@
     {
       "tag": "Class Modality",
       "patterns":[
-        "Is the class face face?,face face class continue,is there in nursing in NDKC",
-        "still blend learning pa din ba"
+        "face face class modality",
+        "still blend learning"
         
       ],
       "response": [
