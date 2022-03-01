@@ -185,7 +185,8 @@
       "tag": "Courses Offered",
       "patterns": [
         "do you offer Social Work, stenography course, accounting tech technology, criminology crim, architecture, business ad administration, education, masters masteral master of arts, prof ed professional",
-        "what are undergraduate programs and college courses offered from your school"
+        "what are undergraduate programs and college courses offered from your school",
+        "is offering courses"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
