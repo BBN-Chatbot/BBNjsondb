@@ -52,12 +52,12 @@
     {
       "tag": "Statement of Account",
       "patterns": [
-        "can you send statement of account here",
+        "can you send statement of account soa here",
         "can i ask for my remaining balance",
         "Can I ask for a copy of my sisters SOA",
-        "I would like to request for my statement of account?",
-        "can i request a copy of statement of account?",
-        "can i request a copy of SOA"
+        "I would like to request for my statement of account soa?",
+        "can i request a copy of statement of account soa?",
+        "can i request a copy of SOA,request soa"
       ],
       "response": [
         "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you can view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
