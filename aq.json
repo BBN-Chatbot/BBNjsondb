@@ -43,7 +43,7 @@
         "problem about, regarding school balance, tuition",
         "how much will I pay for tuition fee",
         "ask for the remaining balance",
-        "total tuition fees",
+        "total tuition fee left",
         "my outstanding balance in finance",
         "can i pay downpayment",
         "fee breakdown"
@@ -62,7 +62,7 @@
       "can i request soa a copy of statement of account soa?",
         "can i request soa a copy of SOA,request soa",
         "can i would like request copy soa statement of account ",
-        "request po soa"
+        "request soa"
       ],
       "response": [
         "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you can view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
@@ -74,9 +74,7 @@
         "is the business office open tommorow",
         "is the cashier open today?",
         "business office or cashier or finance open on monday tuesday wednesday thursday friday",
-        "can i pay today",
-        "can i pay now",
-        "can i pay tommorow"
+        "can i pay today, now, tommorow"
       ],
       "response": [
         "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -163,7 +161,7 @@
         "can i down or make downpayment"
       ],
       "response": [
-        "The minimum downpayment during enrollment is \u00e2\u201a\u00b13,000 "
+        "The minimum downpayment during enrollment is 3,000 "
       ]
     },
     {
@@ -217,8 +215,8 @@
     {
       "tag": "Per Unit Cost",
       "patterns": [
-        "po how much payment cost per unit ",
-        "inquire ask know po about tuition fee per unit of"
+        "how much payment cost per unit ",
+        "inquire ask know about tuition fee per unit of"
       ],
       "response": [
         "The tuition fee per unit may vary per course and year level.\n\nFor more information you can contact our Business Office\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
