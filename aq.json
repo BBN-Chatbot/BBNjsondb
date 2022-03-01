@@ -233,11 +233,7 @@
     {
       "tag": "School Contact Details",
       "patterns": [
-        "can i ask the email of the school",
-        "does the school have contact number",
-        "does the school have email address",
-        "does the school have contact number",
-        "can i have contact number of the school"
+        "can i ask request the email address and contact number of the school"
       ],
       "response": [
         "You can reach us through this:\n\nOffice of the Vice President Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
