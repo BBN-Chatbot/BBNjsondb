@@ -382,11 +382,11 @@
     {
       "tag": "ID",
       "patterns": [
-        "Can i request an ID,how can you issue an id"
+        "Can i request an ID,how can you issue an id,how to validate id"
     
       ],
       "response": [
-        "ADTO SCHOOL OIPS"
+        "You may come and visit the Production Office in Br. Renato Cruz,FMS Building"
       ]
     },
     {
