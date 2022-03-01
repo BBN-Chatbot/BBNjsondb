@@ -87,6 +87,31 @@
       ]
     },
     {
+      "tag": "Scholarships",
+      "patterns":[
+        "when to avail to TES",
+        "when is the result of the scholarship",
+        "how can we know if we are accepted in scholarship",
+        "do you have any scholarship programs,ask about scholarship, do you offer scholarship"
+         
+      ],
+      "response": [
+        "Yes, we do have scholarship programs. You may come and see the Scholarship Coordinator/College Guidance office for more queries regarding this.\n\n You may also contact the College Guidance office through:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Online Class",
+      "patterns":[
+        "do you accept online class",
+        "online class or modular in NDKC, college",
+        "required apps application to use used in online class"
+         
+      ],
+      "response": [
+        "As of now, only online classes are offered in all courses in NDKC\n\n*note: Please be advised that application that are usually used in online classes are:\n-Google Classroom\n-Google Meet\n-Zoom"
+      ]
+    },
+    {
       "tag": "Business hours (Registrar)",
       "patterns": [
         "is the registrar registrars office open on monday tuesday wednesday thursday friday saturday saturday sunday ",
@@ -309,7 +334,7 @@
         "can i enroll in graduate school now"
       ],
       "response": [
-        "You can reach the graduate school through:\n\nMobile No.:        \nLandline:             \nEmail:"
+        "You can reach the graduate school through:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
       ]
     },
     {
@@ -330,7 +355,7 @@
         "can you accept earning units "
       ],
       "response": [
-        "Please contact the Office of the Vice President through : \n\nMobile No.:           \nLandline:        \nEmail: "
+        "Please contact the Office of the Vice President through : \n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
       ]
     },
     {
