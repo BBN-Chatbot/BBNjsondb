@@ -398,6 +398,17 @@
       "response": [
         "NDKC is located in Datu Ingkal Street, Kidapawan City, North Cotabato"
       ]
+    },
+    {
+      "tag": "Clearance",
+      "patterns":[
+        "where to get clearance, if the clearance is not completed",
+        "last day to get clearance"
+         
+      ],
+      "response": [
+        "You can get you clearances in the Office of the Registrar\n\nClearances should be completely signed, submitted to the Office of the Registrar before you will be given a permit for final Examination"
+      ]
     }
 
 
