@@ -96,7 +96,17 @@
          
       ],
       "response": [
-        "Yes, we do have scholarship programs. You may come and see the Scholarship Coordinator/College Guidance office for more queries regarding this.\n\n You may also contact the College Guidance office through:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+        "Yes, we do have scholarship programs. You may come and see the Scholarship Coordinator/College Guidance office for more queries regarding this.\n\nYou may also contact the College Guidance office through:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Deans List",
+      "patterns":[
+        "ask about DL, how can are we on the deans list, how te be deans lister"
+         
+      ],
+      "response": [
+        ""
       ]
     },
     {
@@ -371,7 +381,7 @@
     {
       "tag": "Location",
       "patterns":[
-        "where is the school located location, where can i locate the school"
+        "where is the school located location, where can i locate the school, where is ndkc"
          
       ],
       "response": [
