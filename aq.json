@@ -103,7 +103,7 @@
     {
       "tag": "Deans List",
       "patterns":[
-        "ask about DL, how can are we on the deans list, how to be deans lister"
+        "ask about DL, deans list, how to be deans lister"
          
       ],
       "response": [
@@ -125,8 +125,8 @@
       "tag": "Online Class",
       "patterns":[
         "do you accept online class",
-        "online class modular in NDKC, college",
-        "required apps application to use used in online class"
+        "online class modular",
+        "required apps application use in online class"
          
       ],
       "response": [
@@ -136,8 +136,8 @@
     {
       "tag": "Business hours (Registrar)",
       "patterns": [
-        "is the registrar registrars office open on monday tuesday wednesday thursday friday saturday saturday sunday ",
-        "when is the registrar open","is registrars office open tommorow today"
+        "is the registrar office open on monday tuesday wednesday thursday friday saturday saturday sunday ",
+        "is office open tommorow today"
       ],
       "response": [
         "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns you can reach the Registrar's Office through:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -165,7 +165,7 @@
     {
       "tag": "Grade Inquiry",
       "patterns": [
-        "know how will I be able to see, view, have my grades now?"
+        "know how will I be able to see, view, have my grades"
       ],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concerns regarding School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
@@ -241,8 +241,8 @@
     {
       "tag": "Discounts",
       "patterns": [
-        "my discount has been applied",
-        "if deducted to my tuition",
+        "discount has been applied",
+        "deducted tuition",
         "Is the discount applicable to all honors?",
         "have I reached the opportunity to avail the discount"
       ],
@@ -271,7 +271,6 @@
     {
       "tag": "Intro Question",
       "patterns": [
-        "can i ask",
         "can i ask a question",
         "i have a question",
         "can i have a question"
