@@ -20,7 +20,7 @@
     {
       "tag": "Payment",
       "patterns": [
-        "can i ask what are the reciever details, account number to pay online for online transactions, steps to send my payment for tuition",
+        "can i ask what are the bank account reciever details, account number to pay for online transactions, steps to send my payment for tuition",
         "can i send my money through via gcash, g-cash, bank transfer, cebuana, ML remittance, m lhuillier, pay thru tru ml"
       ],
       "response": [
@@ -233,7 +233,7 @@
     {
       "tag": "School Contact Details",
       "patterns": [
-        "can i ask request the email address and contact number of the school"
+        "can i ask request have the email address and contact number of the school"
       ],
       "response": [
         "You can reach us through this:\n\nOffice of the Vice President Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
