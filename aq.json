@@ -232,7 +232,7 @@
         "can i ask request have the email address and contact number of the school"
       ],
       "response": [
-        "You can reach us through the following:\n\nOffice of the Vice President Academics Affairs:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
+        "You can reach us through the following:\n\nOffice of the Vice President for Academics Affairs:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
       ]
     },
     {
@@ -262,7 +262,7 @@
         "when is the last day of enrollment"
       ],
       "response": [
-        "Enrollment schedule is to be announced\n\nPlease stay tuned to our NDKC page: https://www.facebook.com/ndkcofficial/ for future announcement."
+        "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
       ]
     },
     {
@@ -286,7 +286,7 @@
         "can i take entrance exam online"
       ],
       "response": [
-        "Entrance Examination schedule is to be announced\n\nPlease stay tuned to our NDKC page: https://www.facebook.com/ndkcofficial/ for future announcements."
+        "Entrance Examination schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcements."
       ]
     },
     {
@@ -298,7 +298,7 @@
         "tell me more about ndkc, what is ndkc"
       ],
       "response": [
-        "Notre Dame of Kidapawan College (locally known as NDKC) is a Catholic institution run by the Marist Brothers or FMS (Fratres Maristae a Scholis), a Catholic religious order from France. NDKC has been a member of the Notre Dame Educational Association (NDEA), a group of Notre Dame Schools and the Catholic Educational Association of the Philippines (CEAP)."
+        "Notre Dame of Kidapawan College (locally known as NDKC) is a Catholic institution run by the Marist Brothers or FMS (Fratres Maristae a Scholis), a Catholic religious order from France. NDKC is a member of the Notre Dame Educational Association (NDEA), a group of Notre Dame Schools and the Catholic Educational Association of the Philippines (CEAP)."
       ]
     },
     {
@@ -314,7 +314,7 @@
         "when is final examination"
       ],
       "response": [
-        "Exam schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
+        "Examination schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
       ]
     },
     {
@@ -327,7 +327,7 @@
         "start of orientation"
       ],
       "response": [
-        "Orientation schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
+        "Orientation schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
       ]
     },
     {
@@ -350,7 +350,7 @@
         "can i enroll in graduate school now"
       ],
       "response": [
-        "You can reach the graduate school through:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
+        "You can reach the graduate school thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
       ]
     },
     {
@@ -360,7 +360,7 @@
         "can i ask when is the class starting"
       ],
       "response": [
-        "Class schedules are usually announced in our NDKC page: https://www.facebook.com/ndkcofficial/\n\nPlease stay tuned for announcements."
+        "Class schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
       ]
     },
     {
@@ -371,7 +371,7 @@
         "can you accept earning units "
       ],
       "response": [
-        "Please contact the Office of the Vice President through : \n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+        "Please contact the Office of the Vice President for Academic Affairs thru the following: \n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
       ]
     },
     {
@@ -381,17 +381,17 @@
     
       ],
       "response": [
-        "You may come and visit the Production Office in Br. Renato Cruz,FMS Building"
+        "You may come and visit the Media Production Center located at the Br. Renato Cruz,FMS Building(near college gate)"
       ]
     },
     {
       "tag": "Location",
       "patterns":[
-        "where is the school located location, where can i locate the school, where is ndkc"
+        "where is the school located location, where can i locate the school, where is ndkc ask found"
          
       ],
       "response": [
-        "NDKC is located in Datu Ingkal Street, Kidapawan City, North Cotabato"
+        "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
       ]
     },
     {
@@ -402,7 +402,7 @@
          
       ],
       "response": [
-        "You can get you clearances in the Office of the Registrar\n\nClearances should be completely signed, submitted to the Office of the Registrar before you will be given a permit for final Examination"
+        "Please secure your clearance from the office of the Registrar.\n\nSubmit your clearance with complete signatures to the office of the Registrar before you will be issued a permit for Final Examination."
       ]
     },
     {
@@ -413,7 +413,7 @@
         "can i ask about number of dean,number of vice president vp of the school for academic affairs"
       ],
       "response": [
-        "You can reach us through this:\n\nOffice of the Vice President Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
+        "You can reach us thru the following:\n\nOffice of the Vice President for Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
       ]
     }
 
