@@ -387,7 +387,9 @@
     {
       "tag": "Location",
       "patterns":[
-        "where is the school located location, where can i locate the school, where is ndkc ask found"
+        "what is the location of the school",
+        "where is the school located",
+        "where to find the school"
          
       ],
       "response": [
