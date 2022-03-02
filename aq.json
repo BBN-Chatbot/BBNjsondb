@@ -69,8 +69,7 @@
     {
       "tag": "Business Hours (Finance)",
       "patterns": [
-        "business office, cashier, finance open on monday tuesday wednesday thursday friday",
-        "can i pay at the cashier today, now, tommorow"
+        "business office, cashier, finance open on monday tuesday wednesday thursday friday saturday sunday today tommorow now"
       ],
       "response": [
         "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
