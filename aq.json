@@ -191,7 +191,7 @@
     {
       "tag": "Registrar Contact Details",
       "patterns": [
-        "ask or request for registrar department registrars office number, contact details, email address"
+        "ask or request for registrar department office number, contact details, email address"
       ],
       "response": [
         "You can contact our Registrar's Office thru the following:\n\nOffice of the College Registrar:\nMobile No.: 0923-955-5278\nLandline: (064)\n577-1673 local 118\nEmail: registrar@ndkc.edu.ph"
