@@ -406,9 +406,7 @@
     {
       "tag": "Vice Pres Details",
       "patterns":[
-        "about contact details of dean,contact details of vice president vp of the school for academic affairs",
-        "about email of dean, email of vice president vp of the school for academic affairs",
-        "about number of dean,number of vice president vp of the school for academic affairs"
+        "about contact details number email of dean,contact details of vice president vp of the school for academic affairs"
       ],
       "response": [
         "You can reach us thru the following:\n\nOffice of the Vice President for Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
