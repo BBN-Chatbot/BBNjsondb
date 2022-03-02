@@ -387,9 +387,9 @@
     {
       "tag": "Location",
       "patterns":[
-        "what is the location of the school",
-        "where is the school located",
-        "where to find the school"
+        "location of the school",
+        "school located",
+        "find the school"
          
       ],
       "response": [
