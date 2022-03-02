@@ -20,7 +20,7 @@
     {
       "tag": "Payment",
       "patterns": [
-        "what remittance to pay about bank account receiver details, account number to pay for online transactions, steps to send my payment for tuition",
+        "where can i pay what remittance to pay about bank account receiver details, account number to pay for online transactions, steps to send my payment for tuition",
         "send money through via gcash, RD pawnshop, g-cash, bank transfer, cebuana, ML remittance, m lhuillier, pay thru tru palawan"
       ],  
       "response": [
