@@ -1,0 +1,28 @@
+{
+    "filters":{
+        "profanity":[
+            "wtf", "fuck", "stupid", "bobo", "tanga", "gago", "gaga", "pota", "potang", "yawa", "idiot", "puta", "ywa", "ywaa", "bubu"
+        ],
+        "greetings":[
+            "Hi", "Hello", "Hey"
+        ]
+ 
+    },
+    "responses":{
+        "invalidFileType":[
+            "Sorry, I can only process text inputs." 
+        ],
+        "profanityResponse":[
+            "Inappropriate words detected."
+        ],
+        "responseForGreetingOnly":[
+            "Hi, \nI'm NOA your personal assistant. How may I help you today?"
+        ],
+        "responseForGreeting":[
+            "Hello! Thank you for reaching out."
+        ],
+        "invQueryLength":[
+            "Input doesn't make sense. Please retry."
+        ]
+    }
+}
