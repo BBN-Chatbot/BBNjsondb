@@ -14,20 +14,17 @@
         "do you accept, accepting new students, student, I am a transfer students, transferee, can i enroll this second sem, 2nd semester"
       ],
       "response": [
-        "Yes, We accept New Students and Transferee\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students in both first and second semester within the enrollment schedule. For incoming freshmen and transferees kindly present your admission credentials."
+        "Yes, We accept New Students and Transferees.\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students. For incoming freshmen and transferees, kindly present your admission credentials."
       ]
     },
     {
       "tag": "Payment",
-      "recommendations":[
-        "What are supported payment method for paying tuition."
-      ],
       "patterns": [
         "ask about bank account reciever details, account number to pay for online transactions, steps to send my payment for tuition",
         "send money through via gcash, RD pawnshop, g-cash, bank transfer, cebuana, ML remittance, m lhuillier, pay thru tru palawan"
       ],  
       "response": [
-        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office Cashier(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nInformation required:\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGES\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nFollow instruction from this : https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact us:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\n NDKC Business Office\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
@@ -49,7 +46,7 @@
         "fee breakdown"
       ],
       "response": [
-        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you can view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
+        "You can contact the Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
     },
     {
@@ -65,7 +62,7 @@
         "request soa"
       ],
       "response": [
-        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor the Statement of account, you can view your SOA through student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
+        "You can contact the Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
     },
     {
@@ -84,7 +81,7 @@
         "can i ask or request for the contact details number or email of finance office department or business office or cashier"
       ],
       "response": [
-        "You can contact our Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
+        "You can contact our Business Office thru the following:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
@@ -97,7 +94,7 @@
          
       ],
       "response": [
-        "Yes, we do have scholarship programs. You may come and see the Scholarship Coordinator/College Guidance office for more queries regarding this.\n\nYou may also contact the College Guidance office through:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+        "Yes, we have Scholarship Programs for you. Please see the Scholarship Coordinator at the College Guidance Office.\n\nYou may also contact the College Guidance office thru the following:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
       ]
     },
     {
@@ -118,7 +115,7 @@
         
       ],
       "response": [
-        "For now online classes are offered in all courses"
+        "For now, online classes are offered in all courses"
       ]
     },
     {
@@ -130,7 +127,7 @@
          
       ],
       "response": [
-        "As of now, only online classes are offered in all courses in NDKC\n\n*note: Please be advised that application that are usually used in online classes are:\n-Google Classroom\n-Google Meet\n-Zoom"
+        "As of now, only online classes are offered in all programs.\n\n*note: Please be advised that application that are usually used in online classes are:\n-Google Classroom\n-Google Meet\n-Zoom"
       ]
     },
     {
@@ -140,7 +137,7 @@
         "is office open tommorow today"
       ],
       "response": [
-        "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns you can reach the Registrar's Office through:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
+        "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns, you can reach the Registrar's Office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
     },
     {
@@ -149,7 +146,7 @@
         "what are the needed requirements or admission credentials to enroll or for enrollment for new students or student or continuing students or old students or transferee transferees or graduate school or masteral masters"
       ],
       "response": [
-        "Here are the College Admission Requirements:\nIncoming Freshmen:\n-Form138/Report Card\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1pc 2x2 ID picture\n\nFor Transferees:\n-Certificate of Transfer/Honorable Dismissal\n-Transcript of Records\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1 pc. 2x2 ID picture\n\nFor Incoming Freshmen and Transferees:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467365404995702/467363524995890\nFor Continuing Students:\nPlease refer to this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467372941661615/467371908328385\n\nFor Graduate School(new enrollees):\n-Entrance Examination\n-Two(2) long brown folder\n-Transcript of Records(2 copies photocopy)\n-Honorable Dismissal/Certificate of Transfer Credentials(original)-for transferees\n-Colored Pictures with white background-3 pcs.(2x2)\n-PSA Birth Certificate(2 copies photocopy)\n-Photocopy of License-for nursing students only\n-PSA Marriage Certificate(female married student)\n-Reference Report \n-Application of Admission to Graduate Study\n-Login to:\nhttps://schoolmanagementsystem.cloud/globemb/ndkc.college/enrollment/apply\nwww.enroll.nddu.edu.ph/nddu/applicants"
+        "Here are the College Admission Requirements:\nIncoming Freshmen:\n-Form138/Report Card\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1pc 2x2 ID picture\n\nFor Transferees:\n-Certificate of Transfer/Honorable Dismissal\n-Transcript of Records\n-PSA Birth Certificate(original)\n-Certificate of Good Moral Character\n-1 pc. 2x2 ID picture\n\nFor Incoming Freshmen and Transferees:\nPlease check this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467365404995702/467363524995890\nFor Continuing Students:\nPlease check this link:\nhttps://www.facebook.com/ndkcofficial/photos/pcb.467372941661615/467371908328385\n\nFor Graduate School(new enrollees):\n-Entrance Examination\n-Two(2) long brown folder\n-Transcript of Records(2 copies photocopy)\n-Honorable Dismissal/Certificate of Transfer Credentials(original)-for transferees\n-Colored Pictures with white background-3 pcs.(2x2)\n-PSA Birth Certificate(2 copies photocopy)\n-Photocopy of License-for nursing students only\n-PSA Marriage Certificate(female married student)\n-Reference Report \n-Application of Admission to Graduate Study\n-Login to:\nhttps://schoolmanagementsystem.cloud/globemb/ndkc.college/enrollment/apply\nwww.enroll.nddu.edu.ph/nddu/applicants"
       ]
     },
     {
@@ -159,7 +156,7 @@
         "can i down or make downpayment"
       ],
       "response": [
-        "The minimum downpayment during enrollment is 3,000 "
+        "The minimum downpayment for enrollment is ₱3,000 "
       ]
     },
     {
