@@ -426,6 +426,16 @@
       "response": [
         "Hey! Im NOA\n\nShort for NDKC ONLINE ASSISTANT\n\nNice to meet you!\n\nHow may I help you? :)"
       ]
+    },
+    {
+      "tag": "School Hours",
+      "patterns":[
+        "school open friday monday tuesday thursday wednesday saturday tommorow today"
+         
+      ],
+      "response": [
+        "Most of the offices is open monday to friday 8:30 am to 4:30 pm."
+      ]
     }
 
 
