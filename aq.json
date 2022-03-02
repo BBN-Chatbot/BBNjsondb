@@ -269,9 +269,7 @@
     {
       "tag": "Intro Question",
       "patterns": [
-        "can i ask a question",
-        "i have a question",
-        "can i have a question"
+        "can i ask a question"
       ],
       "response": [
         "Yes? How may I help you ?"
