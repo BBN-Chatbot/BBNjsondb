@@ -38,12 +38,13 @@
         "did not received an email yet",
         "issue a check for payment",
         "problem about, regarding school balance, tuition",
-        "how much will I pay for tuition fee",
+        "much will I pay for tuition fee",
         "ask for the remaining balance",
         "total tuition fee left",
         "my outstanding balance in finance",
         "can i pay downpayment",
-        "fee breakdown"
+        "fee breakdown",
+        "much tuition"
       ],
       "response": [
         "You can contact the Business Office through:\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
