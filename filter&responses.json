@@ -22,7 +22,7 @@
             "Inappropriate words detected."
         ],
         "responseForGreetingOnly":[
-            "Hi,\nI'm NOA your personal assistant. \nHow may I help you today?"
+            "Hi,\n\nI'm NOA your personal assistant. \n\nHow may I help you today?"
         ],
         "responseForGreeting":[
             "Hello! Thank you for reaching out."
