@@ -63,7 +63,7 @@
         "find soa statement of account"
       ],
       "response": [
-        "You can contact the Business Office through:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
+        "You can contact the Business Office through:\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
     },
     {
@@ -385,8 +385,8 @@
     {
       "tag": "Location",
       "patterns":[
-        "find the address location of the school locate",
-        "school locate"
+        "find address location school locate",
+        "school locate address "
       ],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
