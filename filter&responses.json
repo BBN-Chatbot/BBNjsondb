@@ -8,6 +8,9 @@
         ],
         "thanks":[
             "thankyou", "thank", "ty", "salamat","tnx","lamat"
+        ],
+        "goodbye":[
+            "bye", "no", "nothing", "goodbye"
         ]
  
     },
@@ -32,6 +35,9 @@
         ],
         "responseForThankyou":[
             "You're welcome."
+        ],
+        "responseForGoodbye":[
+            "Ok, glad that I could be of help."
         ],
         "followUpResponse":[
             "Is there anything else that i can help you with?"
