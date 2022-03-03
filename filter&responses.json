@@ -1,13 +1,13 @@
 {
     "filters":{
         "profanity":[
-            "wtf", "fuck", "stupid", "bobo", "tanga", "gago", "gaga", "pota", "potang", "yawa", "idiot", "puta", "ywa", "ywaa", "bubu"
+            "wtf", "fuck", "stupid", "bobo", "tanga", "gago", "gaga", "pota", "potang", "yawa", "idiot", "puta", "ywa", "ywaa", "bubu","retard","lintik","punyeta","bwiset","bwisit","linte","linti"
         ],
         "greetings":[
-            "Hi", "Hello", "Hey"
+            "Hi", "Hello", "Hey","morning","afternoon","evening","pm","noon","am","eve"
         ],
         "thanks":[
-            "thankyou", "thank", "ty", "salamat"
+            "thankyou", "thank", "ty", "salamat","tnx","lamat"
         ]
  
     },
@@ -19,7 +19,7 @@
             "Inappropriate words detected."
         ],
         "responseForGreetingOnly":[
-            "Hi, \nI'm NOA your personal assistant. How may I help you today?"
+            "Hi,\nI'm NOA your personal assistant. How may I help you today?"
         ],
         "responseForGreeting":[
             "Hello! Thank you for reaching out."
