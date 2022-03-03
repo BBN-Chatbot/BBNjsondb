@@ -385,7 +385,8 @@
     {
       "tag": "Location",
       "patterns":[
-        "find the address location of the school located locate"
+        "find the address location of the school locate",
+        "school locate"
       ],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
