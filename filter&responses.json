@@ -22,7 +22,10 @@
             "Hello! Thank you for reaching out."
         ],
         "invQueryLength":[
-            "Input doesn't make sense. Please retry."
+            "Sorry I can't undersytand. Can you please specify more. Please retry."
+        ],
+        "welcomingMsg":[
+            "Hi there!\n\nI'm NOA in short for NDKC's Online Assistant.\n\nI am still new but feel free to ask me questions and take note that I only do have school related FAQs in my dataset.\n\nTo get more out of me: \n- Use proper spelling.\n- Only ask school related questions.\n- Avoid inappropriate words.\n- Do not spam."
         ]
     }
 }
