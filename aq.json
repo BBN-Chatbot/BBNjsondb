@@ -251,17 +251,9 @@
     {
       "tag": "Enrollment Schedule",
       "patterns": [
-        "is there online enrollment",
-        "start enrolment",
+        "is there a schedule of online enrollment",
         "is there a way to enroll online",
-        "when is the online enrollment for college",
-        "are you open for enrollment enrolment",
-        "is online enrollment enrolment already open",
-        "open now for enrollment enrolment",
-        "when is the enrollment enrolment",
-        "when is the schedule for enrollment enrolment",
-        "enrollment has already started now enrolment",
-        "when is the last day of enrollment enrolment"
+        "are you open for enrollment"
       ],
       "response": [
         "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
