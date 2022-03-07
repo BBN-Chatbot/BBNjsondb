@@ -162,7 +162,7 @@
     {
       "tag": "Grade Inquiry",
       "patterns": [
-        "know how will I be able to see, view, have my grades"
+        "how will I be able to see, know, view, have my grades"
       ],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concern regarding the School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
@@ -270,11 +270,8 @@
     {
       "tag": "Entrance Exam",
       "patterns": [
-        "When is the schedule for entrance examination",
-        "when is the entrance exam",
-        "when is the entrance exam sched",
-        "when is the online entrance exam",
-        "can i take entrance exam online"
+        "When is the schedule for online entrance examination",
+        "when is the sched entrance exam"
       ],
       "response": [
         "Entrance Examination schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcements."
@@ -296,13 +293,7 @@
       "tag": "Exam Schedule",
       "patterns": [
         "when is the final exam",
-        "When is the finals",
-        "when is the midterm exam",
-        "is there an exam in school today",
-        "do we have schedule for exam",
-        "schedule for midterm examination",
-        "when is midterm examination",
-        "when is final examination"
+        "do we have schedule midterm for examination"
       ],
       "response": [
         "Examination schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
