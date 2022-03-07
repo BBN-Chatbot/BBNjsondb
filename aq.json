@@ -152,7 +152,7 @@
     {
       "tag": "Enrollment Fee",
       "patterns": [
-        "how much payment need needed for enrollment, enroll",
+        "how much payment or fee to pay need needed for enrollment, enroll",
         "can i down or make downpayment"
       ],
       "response": [
