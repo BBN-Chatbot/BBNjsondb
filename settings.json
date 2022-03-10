@@ -1,7 +1,7 @@
 {
- "setVars":{
-     "primThreshold": 0.24,
-     "simDiff": 0.21,
-     "secThreshold": 0.30
- }
+  "setVars": {
+    "primThreshold": 0.24,
+    "simDiff": 0.21,
+    "secThreshold": 0.3
+  }
 }

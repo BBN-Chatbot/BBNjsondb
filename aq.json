@@ -211,8 +211,8 @@
     {
       "tag": "Per Unit Cost",
       "patterns": [
-        "how much payment cost per unit ",
-        "inquire ask know about tuition fee per unit of"
+        "how much payment per unit ",
+        "inquire ask know about tuition fee per unit"
       ],
       "response": [
         "The tuition fee per unit may vary per program and year level.\n\nFor more information you can contact the Business Office\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
@@ -251,9 +251,8 @@
     {
       "tag": "Enrollment Schedule",
       "patterns": [
-        "is there a start or schedule of online enrollment",
-        "is there a way to enroll online",
-        "are you open for enrollment"
+        "when is the start or schedule of online enrollment",
+        "can i still enroll or have my enrollment online"
       ],
       "response": [
         "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
@@ -326,7 +325,7 @@
     {
       "tag": "Graduate School",
       "patterns": [
-        "do you accept enrollee and when is the enrollment, enroll in graduate school"
+        "do you accept enrollee and enrollment, enroll in graduate school"
       ],
       "response": [
         "You can reach the graduate school thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
