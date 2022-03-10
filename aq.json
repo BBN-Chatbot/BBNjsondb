@@ -14,17 +14,14 @@
         "do you accept, accepting new students, student, I am a transfer students, transferee, can i enroll this second sem, 2nd semester"
       ],
       "response": [
-        "Yes, We accept New Students and Transferees.\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students. For incoming freshmen and transferees, kindly present your admission credentials."
-      ]  
+        "Yes, We accept New Students and Transferees.\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students. For incoming freshmen and transferees, kindly present your admission credentials.]"
+      ]
     },
     {
       "tag": "Payment",
       "patterns": [
-        "where can i pay what remittance to pay about bank account receiver details, ask account number details to pay for online transactions, steps to send my payment for tuition fee",
-        "as if i can send money through via gcash, RD pawnshop, g-cash, bank transfer, cebuana, ML remittance, m lhuillier, pay thru tru palawan",
-        "accept credit card payment pay",
-        "how to pay enrollment online"
-      ],  
+        "where can i pay what remittance to pay about bank account receiver details, ask account number details to pay for online transactions, steps to send my payment for tuition fee"
+      ],
       "response": [
         "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
       ]
@@ -55,10 +52,10 @@
       "tag": "Statement of Account",
       "patterns": [
         "can you send statement of account soa here",
-    "can i ask for my remaining balance soa",
-    "Can I ask for a copy of my sisters SOA",
-      "I would like to request for my statement of account soa?",
-      "can i request soa a copy of statement of account soa?",
+        "can i ask for my remaining balance soa",
+        "Can I ask for a copy of my sisters SOA",
+        "I would like to request for my statement of account soa?",
+        "can i request soa a copy of statement of account soa?",
         "can i request soa a copy of SOA,request soa",
         "can i would like request copy soa statement of account ",
         "request soa",
@@ -88,12 +85,11 @@
     },
     {
       "tag": "Scholarships",
-      "patterns":[
+      "patterns": [
         "when to avail to TES",
         "when is the result of the scholarship",
         "how can we know if we are accepted in scholarship",
         "do you have any scholarship programs,ask about scholarship, do you offer scholarship"
-         
       ],
       "response": [
         "Yes, we have Scholarship Programs for you. Please see the Scholarship Coordinator at the College Guidance Office.\n\nYou may also contact the College Guidance office thru the following:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
@@ -101,9 +97,8 @@
     },
     {
       "tag": "Deans List",
-      "patterns":[
+      "patterns": [
         "ask about DL, deans list, how to be deans lister"
-         
       ],
       "response": [
         "We post the Dean's List on the Schools' Bulletin Board"
@@ -111,10 +106,9 @@
     },
     {
       "tag": "Class Modality",
-      "patterns":[
+      "patterns": [
         "face face class modality",
         "still blend learning"
-        
       ],
       "response": [
         "For now, online classes are offered in all courses"
@@ -122,11 +116,10 @@
     },
     {
       "tag": "Online Class",
-      "patterns":[
+      "patterns": [
         "do you accept online class",
         "online class modular",
         "required apps application use in online class"
-         
       ],
       "response": [
         "As of now, only online classes are offered in all programs.\n\n*note: Please be advised that application that are usually used in online classes are:\n-Google Classroom\n-Google Meet\n-Zoom"
@@ -157,7 +150,7 @@
         "can i down or make downpayment"
       ],
       "response": [
-        "The minimum downpayment for enrollment is ₱3,000 "
+        "The minimum downpayment for enrollment is \u00e2\u201a\u00b13,000 "
       ]
     },
     {
@@ -172,7 +165,7 @@
     {
       "tag": "Registrar Files",
       "patterns": [
-        "can i ask, request if i can get my TOR, all my school record, cor, certificate of enrollment, copy of sf10, authenticated diploma, NSO, GOOD MORAL HONORABLE DISMISSAL"
+        "ask, request to get my TOR, all my school record, cor, certificate of enrollment, copy of sf10, authenticated diploma, NSO, GOOD MORAL HONORABLE DISMISSAL"
       ],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -181,9 +174,7 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "do you offer Social Work, stenography course, accounting tech technology, criminology crim, architecture, business ad administration, education, masters masteral master of arts, prof ed professional",
-        "what are undergraduate programs and college courses offered from your school",
-        "offered courses for graduate or postgraduate"
+        "do you offer courses such as masters masteral master of arts, prof ed professional"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
@@ -356,7 +347,6 @@
       "tag": "ID",
       "patterns": [
         "Can i request an ID,how can you issue an id,how to validate id"
-    
       ],
       "response": [
         "You may come and visit the Media Production Center located at the Br. Renato Cruz,FMS Building(near college gate)"
@@ -364,7 +354,7 @@
     },
     {
       "tag": "Location",
-      "patterns":[
+      "patterns": [
         "find address location school "
       ],
       "response": [
@@ -373,10 +363,9 @@
     },
     {
       "tag": "Clearance",
-      "patterns":[
+      "patterns": [
         "where to get clearance, if the clearance is not completed",
         "last day to get clearance"
-         
       ],
       "response": [
         "Please secure your clearance from the office of the Registrar.\n\nSubmit your clearance with complete signatures to the office of the Registrar before you will be issued a permit for Final Examination."
@@ -384,7 +373,7 @@
     },
     {
       "tag": "Vice Pres Details",
-      "patterns":[
+      "patterns": [
         "about contact details number email of dean, of vice president vp of the school for academic affairs"
       ],
       "response": [
@@ -393,10 +382,9 @@
     },
     {
       "tag": "Name",
-      "patterns":[
+      "patterns": [
         "who are you what is your name",
         "tell me about yourself"
-         
       ],
       "response": [
         "Hey! Im NOA, the NDKC ONLINE ASSISTANT\n\nNice to meet you!\n\nHow may I help you? :)"
@@ -404,18 +392,21 @@
     },
     {
       "tag": "School Hours",
-      "patterns":[
+      "patterns": [
         "school open friday monday tuesday thursday wednesday saturday tommorow today"
-         
       ],
       "response": [
         "Most of the offices is open monday to friday 8:30 am to 4:30 pm."
       ]
+    },
+    {
+      "tag": "Prospectus",
+      "patterns": [
+        "can i get a copy of my prospectus"
+      ],
+      "response": [
+        "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
+      ]
     }
-
-
-
-
   ]
-
 }
