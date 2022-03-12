@@ -306,7 +306,7 @@
     {
       "tag": "ELMS",
       "patterns": [
-        "May I ask how can I sign in to the elms?",
+        "sign in to elms?",
         "link for elms"
       ],
       "response": [
