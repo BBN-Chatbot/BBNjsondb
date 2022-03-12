@@ -5,7 +5,7 @@
       "changable": 0,
       "patterns": [],
       "response": [
-        "Sorry, but I don't understand your question. You can try me again with a different set of keywords or try me again some other time."
+        "Sorry, but I don't understand your question. \n\nYou can try me again with a different set of keywords or try me again some other time."
       ]
     },
     {
@@ -89,7 +89,7 @@
         "when to avail to TES",
         "when is the result of the scholarship",
         "how can we know if we are accepted in scholarship",
-        "do you have any scholarship programs,ask about scholarship, do you offer scholarship"
+        "do you have any scholarship programs,ask about scholarship requirements, do you offer scholarship"
       ],
       "response": [
         "Yes, we have Scholarship Programs for you. Please see the Scholarship Coordinator at the College Guidance Office.\n\nYou may also contact the College Guidance office thru the following:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
@@ -174,7 +174,7 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "do you offer courses such as masters masteral master of arts, prof ed professional"
+        "do you offer courses such as masters masteral master of arts, prof ed professional education"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
@@ -378,16 +378,6 @@
       ],
       "response": [
         "You can reach us thru the following:\n\nOffice of the Vice President for Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
-      ]
-    },
-    {
-      "tag": "Name",
-      "patterns": [
-        "who are you what is your name",
-        "tell me about yourself"
-      ],
-      "response": [
-        "Hey! Im NOA, the NDKC ONLINE ASSISTANT\n\nNice to meet you!\n\nHow may I help you? :)"
       ]
     },
     {
