@@ -27,6 +27,15 @@
       ]
     },
     {
+      "tag": "Payment Options",
+      "patterns": [
+        "accept thru through gcash, palawan express remittances, cebuana, rd pawnshop, pay maya, supported payment options"
+      ],
+      "response": [
+        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
+      ]
+    },
+    {
       "tag": "Payment/Balance Issues/SOA",
       "patterns": [
         "Is my payment ok?",
@@ -37,8 +46,7 @@
         "did not received an email yet",
         "issue a check for payment",
         "problem about, regarding school balance, tuition",
-        "ask for the remaining balance",
-        "total tuition fee left",
+        "ask for the remaining balance left",
         "my outstanding balance in finance",
         "can i pay downpayment",
         "fee breakdown",
@@ -146,8 +154,8 @@
     {
       "tag": "Enrollment Fee",
       "patterns": [
-        "how much payment or fee to pay need needed for enrollment, enroll",
-        "can i down or make downpayment"
+        "how much payment or fee to pay need for enrollment, enroll",
+        "down or downpayment"
       ],
       "response": [
         "The minimum downpayment for enrollment is 3,000."
@@ -174,7 +182,7 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "do you offer courses such as masters masteral master of arts, prof ed professional education"
+        "do you offer courses such as masters masteral master of arts, prof ed professional education, undergraduate programs"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
@@ -212,7 +220,7 @@
     {
       "tag": "Promissory",
       "patterns": [
-        "how to issues about promissory promi schedule sched"
+        "issues needs about promissory promi schedule sched"
       ],
       "response": [
         "Schedule of Promissory is 2 - 3 working days before examination schedule\n\nIf you have other concerns or queries please contact the Business office thru the following:\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
@@ -242,8 +250,8 @@
     {
       "tag": "Enrollment Schedule",
       "patterns": [
-        "when is the start or schedule of online enrollment",
-        "can i still enroll or have my enrollment online"
+        "when is the start or schedule of online enrollment enrolment",
+        "can i still enroll or have my enrolment enrollment online"
       ],
       "response": [
         "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
@@ -316,7 +324,7 @@
     {
       "tag": "Graduate School",
       "patterns": [
-        "do you accept enrollee and enrollment, enroll in graduate school"
+        "do you accept or offer graduate school, ph d phd master masters program"
       ],
       "response": [
         "You can reach the graduate school thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
@@ -406,6 +414,11 @@
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
+    },
+    {
+      "tag": "Hiring/Job Applications",
+      "patterns": [],
+      "response": []
     }
   ]
 }
