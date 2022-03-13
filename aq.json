@@ -11,7 +11,7 @@
     {
       "tag": "New Students for Second Sem, Transferees, Enrollment",
       "patterns": [
-        "do you accept, accepting new students, student, I am a transfer students, transferee, can i enroll this second sem, 2nd semester"
+        "accept new students, transferee, enroll current sem semester"
       ],
       "response": [
         "Yes, We accept New Students and Transferees.\n\nEnrollment at NDKC is open for incoming freshmen, transferee, returning, and continuing students. For incoming freshmen and transferees, kindly present your admission credentials.]"
@@ -242,8 +242,7 @@
     {
       "tag": "Enrollment Schedule",
       "patterns": [
-        "when is the start or schedule of online enrollment enrolment",
-        "can i still enroll or have my enrolment enrollment online"
+        "when is the start or schedule of online enrollment enrolment current sem"
       ],
       "response": [
         "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
@@ -261,8 +260,7 @@
     {
       "tag": "Entrance Exam",
       "patterns": [
-        "When is the schedule for online entrance examination",
-        "when is the sched entrance exam"
+        "schedule sched for online entrance exam examination"
       ],
       "response": [
         "Entrance Examination schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcements."
@@ -271,10 +269,7 @@
     {
       "tag": "School Details",
       "patterns": [
-        "can you tell me about the school",
-        "Can you tell me more about this educational institution?",
-        "describe the school",
-        "tell me more about ndkc"
+        "ask about describe or tell me about the school educational institution ndkc"
       ],
       "response": [
         "Notre Dame of Kidapawan College (locally known as NDKC) is a Catholic institution run by the Marist Brothers or FMS (Fratres Maristae a Scholis), a Catholic religious order from France. NDKC is a member of the Notre Dame Educational Association (NDEA), a group of Notre Dame Schools and the Catholic Educational Association of the Philippines (CEAP)."
@@ -293,11 +288,7 @@
     {
       "tag": "Orientation Schedule",
       "patterns": [
-        "When is the orientation",
-        "when is the orientation schedule",
-        "about class orientation",
-        "orientation for freshmen",
-        "start of orientation"
+        "when is the start of class orientation schedule for freshmen"
       ],
       "response": [
         "Orientation schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
@@ -306,8 +297,7 @@
     {
       "tag": "ELMS",
       "patterns": [
-        "sign in to elms?",
-        "link for elms"
+        "elms"
       ],
       "response": [
         "You can access ELMS on this link: https://elms.ndkcedu.ph/"
@@ -316,7 +306,7 @@
     {
       "tag": "Graduate School",
       "patterns": [
-        "do you accept or offer graduate school, ph d phd master masters program"
+        "do you accept or offer graduate school, ph d phd master masteral program"
       ],
       "response": [
         "You can reach the graduate school thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
@@ -325,8 +315,7 @@
     {
       "tag": "Class Schedule",
       "patterns": [
-        "when will the class start,first day of class, start of class",
-        "can i ask when is the class starting"
+        "ask when will the class start begin, first day of class"
       ],
       "response": [
         "Class schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
@@ -335,9 +324,7 @@
     {
       "tag": "Earning Units",
       "patterns": [
-        "offer earning units",
-        "do you accept earning units",
-        "can you accept earning units "
+        "earning units"
       ],
       "response": [
         "Please contact the Office of the Vice President for Academic Affairs thru the following: \n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
@@ -346,7 +333,7 @@
     {
       "tag": "ID",
       "patterns": [
-        "Can i request an ID,how can you issue an id,how to validate id"
+        "id"
       ],
       "response": [
         "You may come and visit the Media Production Center located at the Br. Renato Cruz,FMS Building(near college gate)"
@@ -355,7 +342,7 @@
     {
       "tag": "Location",
       "patterns": [
-        "find address location school "
+        "find address location school ndkc"
       ],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
@@ -364,8 +351,7 @@
     {
       "tag": "Clearance",
       "patterns": [
-        "where to get clearance, if the clearance is not completed",
-        "last day to get clearance"
+        "clearance"
       ],
       "response": [
         "Please secure your clearance from the office of the Registrar.\n\nSubmit your clearance with complete signatures to the office of the Registrar before you will be issued a permit for Final Examination."
@@ -374,7 +360,7 @@
     {
       "tag": "Vice Pres Details",
       "patterns": [
-        "about contact details number email of dean, of vice president vp of the school for academic affairs"
+        "about contact details number email of dean, vice president vp for academic affairs"
       ],
       "response": [
         "You can reach us thru the following:\n\nOffice of the Vice President for Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
@@ -392,7 +378,7 @@
     {
       "tag": "Prospectus",
       "patterns": [
-        "can i get a copy of my prospectus"
+        "prospectus"
       ],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
