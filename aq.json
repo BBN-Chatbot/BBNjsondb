@@ -20,7 +20,7 @@
     {
       "tag": "Payment",
       "patterns": [
-        "what is the bank account number receiver details to pay for online transaction", 
+        "what is the bank account number receiver details to pay for online transaction",
         "steps to send my payment for tuition fee"
       ],
       "response": [
@@ -31,14 +31,23 @@
       "tag": "Payment Options",
       "patterns": [
         "where can i pay",
-        "accept thru through gcash, palawan express remittances, cebuana, rd pawnshop, pay maya, supported payment options"
+        "accept thru through credit card, gcash, palawan express remittances, cebuana, rd pawnshop, pay maya, supported payment options"
       ],
       "response": [
         "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
       ]
     },
     {
-      "tag": "Payment/Balance Issues/SOA",
+      "tag": "Enrollment Fee Payment Online/Offline",
+      "patterns": [
+      "how to pay enrollment fee"  
+      ],
+      "response": [
+        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Payment/Balance Issues",
       "patterns": [
         "Is my payment ok?",
         "confirm my payment email",
@@ -127,8 +136,7 @@
     {
       "tag": "Business hours (Registrar)",
       "patterns": [
-        "when registrar office open",
-        "today tommorow monday tuesday wednesday thursday friday saturday saturday sunday"
+        "when is the registrar office open"
       ],
       "response": [
         "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns, you can reach the Registrar's Office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -175,7 +183,7 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "what are the offered courses to take such as masters masteral master of arts, prof ed professional education, undergraduate programs"
+        "what are the offered courses to take such as masters masteral master of arts, prof ed professional education, undergraduate post graduate programs phd ph d"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
@@ -244,7 +252,16 @@
         "when is the start or schedule of online enrollment enrolment enroll current sem"
       ],
       "response": [
-        "Enrollment schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
+        "Enrollment schedule is to be announced.\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
+      ]
+    },
+    {
+      "tag": "Enrollment Steps",
+      "patterns": [
+        "steps or how to enroll"
+      ],
+      "response": [
+        "The steps for Enrollment is to be announced.\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
       ]
     },
     {
@@ -305,7 +322,16 @@
     {
       "tag": "Graduate School",
       "patterns": [
-        "do you accept or offer graduate school, ph d phd master masteral program"
+        "inquire or ask about graduate school, ph d phd master masteral program"
+      ],
+      "response": [
+        "If you have concerns regarding graduate school programs. You can reach the graduate school office thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
+      ]
+    },
+    {
+      "tag": "Graduate School Contact",
+      "patterns": [
+        "what is the mobile contact number email of graduate school office"
       ],
       "response": [
         "You can reach the graduate school thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
@@ -341,7 +367,7 @@
     {
       "tag": "Location",
       "patterns": [
-        "where to find ndkc or school address"
+        "find ndkc or school address"
       ],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"

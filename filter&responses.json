@@ -1,7 +1,7 @@
 {
     "filters":{
         "profanity":[
-            "wtf", "fuck", "stupid", "bobo", "tanga", "gago", "gaga", "pota", "potang", "yawa", "idiot", "puta", "ywa", "ywaa", "bubu","retard","lintik","punyeta","bwiset","bwisit","linte","linti"
+            "wtf", "fuck", "fucking", "stupid", "bobo", "tanga", "gago", "gaga", "pota", "potang", "yawa", "idiot", "puta", "ywa", "ywaa", "bubu","retard","lintik","punyeta","bwiset","bwisit","linte","linti"
         ],
         "greetings":[
             "Hi", "Hello", "Hey","morning","afternoon","evening","pm","noon","am","eve"
