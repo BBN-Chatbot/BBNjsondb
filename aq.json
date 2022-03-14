@@ -30,17 +30,8 @@
     {
       "tag": "Payment Options",
       "patterns": [
-        "where can i pay",
+        "can i as where pay tuition fee",
         "accept thru through credit card, gcash, palawan express remittances, cebuana, rd pawnshop, pay maya, supported payment options"
-      ],
-      "response": [
-        "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
-      ]
-    },
-    {
-      "tag": "Enrollment Fee Payment Online/Offline",
-      "patterns": [
-      "how to pay enrollment fee"  
       ],
       "response": [
         "You can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
@@ -159,7 +150,7 @@
         "down or downpayment"
       ],
       "response": [
-        "The minimum downpayment for enrollment is 3,000."
+        "The minimum downpayment for enrollment is 3,000.\n\nYou can pay thru the following:\n\nWALK-IN : \nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\n\nBILLS PAYMENT :\nASIA UNITED BANK(AUB) OR ML PERA PADALA\n\nINFORMATION REQUIRED\nName of School: NOTRE DAME OF KIDAPAWAN COLLEGE\nStudent Name:\nDepartment: COLLEGE/GRADUATE\n\nBANK FUND TRANSFER to:\nASIA UNITED BANK\nAccount Name: NOTRE DAME OF KIDAPAWAN COLLEGES, INC OR NDKC\nAccount No.: 325-01000026-1\n\nGCASH:\nClick this link for instructions: https://www.facebook.com/ndkcofficial/photos/pcb.467411381657771/467410674991175\n\nAfter payment through Gcash or bank transfer, proof of payment must be emailed to: finance@ndkc.edu.ph\nPlease indicate the following:\nEmail Subject: Proof of Payment - Student Name\nEmail body indicates the following:\nName of the student:\nDepartment:\nLevel:\nPayment Scheme: e.g. Installment\nAccount: e.g. balance from previous AY\n\nYou can also directly contact the:\nNDKC Business Office\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
       ]
     },
     {
@@ -352,7 +343,7 @@
         "earning units"
       ],
       "response": [
-        "Please contact the Office of the Vice President for Academic Affairs thru the following: \n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
+        "If you have concerns regarding graduate school programs. You can reach the graduate school office thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
       ]
     },
     {
