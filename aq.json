@@ -97,7 +97,7 @@
     {
       "tag": "Deans List",
       "patterns": [
-        "ask about how to be DL deans list lister"
+        "how to be DL deans lister"
       ],
       "response": [
         "We post the Dean's List on the Schools' Bulletin Board"
@@ -358,7 +358,7 @@
     {
       "tag": "Location",
       "patterns": [
-        "find ndkc or school address"
+        "find location or school address"
       ],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
@@ -411,12 +411,16 @@
     },
     {
       "tag": "Hiring/Job Applications",
-      "patterns": [],
+      "patterns": [
+        "ask for hiring apply application for teachers job"
+      ],
       "response": []
     },
     {
       "tag": "Vocational Courses",
-      "patterns": [],
+      "patterns": [
+        "vocational course"
+      ],
       "response": []
     }
   ]
