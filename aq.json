@@ -88,7 +88,8 @@
     {
       "tag": "Scholarships",
       "patterns": [
-        "scholarship"
+        "scholarship program",
+        "how to be a scholar"
       ],
       "response": [
         "Yes, we have Scholarship Programs for you. Please see the Scholarship Coordinator at the College Guidance Office.\n\nYou may also contact the College Guidance office thru the following:\n\nMobile No.: 0951-305-2472\nLandline:577-1673 local 121\nEmail: college-dean@ndkc.edu.ph"
@@ -174,7 +175,7 @@
     {
       "tag": "Courses Offered",
       "patterns": [
-        "what are the offered courses to take such as masters masteral master of arts, prof ed professional education, undergraduate post graduate programs phd ph d"
+        "ask what are the offered courses to take such as masters masteral master of arts, prof ed professional education, undergraduate post graduate programs phd ph d"
       ],
       "response": [
         "Our school offers:\n\nUNDERGRADUATE PROGRAMS:\n\nBachelor of Science in Business Administration\n Majors in:\n -Human Resource Development Management\n -Financial Management\n -Marketing Management\nBachelor of Science in Accountancy\nBachelor of Science in Management Accounting\nBachelor of Elementary Education\nBachelor of Early Childhood Education\nBachelor of Secondary Education\n Majors in:\n -English, Filipino, Mathematics, Science, and  Social Studies\nBachelor of Physical Education\nBachelor of Arts in Communication\nBachelor of Arts in Philosophy\n Bachelor of Arts in Political Science\nBachelor of Science in Nursing\nBachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering\n\nGRADUATE AND POSTGRADUATE PROGRAMS:\n\nMasters of Arts in Education\n Majors in:\n -Educational Management\n -Science Education\n -Guidance and Counselling\nMaster of Arts in English\nMaster of Arts in Mathematics\nMaster of Arts in Nursing\nMaster in Business Administration(Thesis and Non-Thesis Program)\nMaster in Public Administration(Thesis and Non-Thesis Program)\nPh.D. in Education"
@@ -394,7 +395,7 @@
     {
       "tag": "Prospectus",
       "patterns": [
-        "prospectus"
+        "ask copy of prospectus"
       ],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -419,7 +420,7 @@
     {
       "tag": "Vocational Courses",
       "patterns": [
-        "vocational course"
+        "vocational"
       ],
       "response": []
     }
