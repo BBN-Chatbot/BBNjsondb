@@ -148,7 +148,7 @@
     {
       "tag": "Enrollment Fee",
       "patterns": [
-        "how much payment or fee to pay need for enrollment, enroll",
+        "how much payment, cost or fee to pay need for enrollment enrolment, enroll enrol",
         "down or downpayment"
       ],
       "response": [
