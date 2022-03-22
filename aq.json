@@ -414,7 +414,7 @@
     {
       "tag": "Hiring/Job Applications",
       "patterns": [
-        "ask for hiring apply application for teachers job"
+        "ask for hiring apply, job application for teachers"
       ],
       "response": []
     },
@@ -422,6 +422,13 @@
       "tag": "Vocational Courses",
       "patterns": [
         "vocational"
+      ],
+      "response": []
+    },
+    {
+      "tag": "HR Email",
+      "patterns": [
+        "application letter resume"
       ],
       "response": []
     }
