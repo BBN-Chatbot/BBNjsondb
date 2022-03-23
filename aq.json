@@ -79,7 +79,7 @@
     {
       "tag": "Finance Contact Details",
       "patterns": [
-        "can i ask or request what is the contact details number or email of finance department or business office or cashier"
+        "can i or request what is the contact details number or email of finance department or business office or cashier"
       ],
       "response": [
         "You can contact our Business Office thru the following:\n\n NDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
@@ -167,7 +167,7 @@
     {
       "tag": "Registrar Files",
       "patterns": [
-        "where to ask, request to get my TOR, all my school record, cor, certificate of enrollment, copy of sf10, authenticated diploma, NSO, GOOD MORAL HONORABLE DISMISSAL"
+        "where to, request to get my TOR, all my school record, cor, certificate of enrollment, copy of sf10, authenticated diploma, NSO, GOOD MORAL HONORABLE DISMISSAL"
       ],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -185,7 +185,7 @@
     {
       "tag": "Registrar Contact Details",
       "patterns": [
-        "can i ask or request what is the registrar department office number, contact details, email address"
+        "can i or request what is the registrar department office number, contact details, email address"
       ],
       "response": [
         "You can contact our Registrar's Office thru the following:\n\nOffice of the College Registrar:\nMobile No.: 0923-955-5278\nLandline: (064)\n577-1673 local 118\nEmail: registrar@ndkc.edu.ph"
@@ -194,7 +194,7 @@
     {
       "tag": "Permit",
       "patterns": [
-        "get request ask my permit online",
+        "get request my permit online",
         "problems regarding permit"
       ],
       "response": [
@@ -204,7 +204,7 @@
     {
       "tag": "Per Unit Cost",
       "patterns": [
-        "how much per unit",
+        "how much does it cost per unit",
         "tuition fee per unit"
       ],
       "response": [
@@ -232,8 +232,8 @@
     {
       "tag": "Discounts",
       "patterns": [
-        "deducted tuition",
-        "discount"
+        "deducted discount"
+        
       ],
       "response": [
         "Only top 10 honor students can avail of discounts."
@@ -278,7 +278,7 @@
     {
       "tag": "School Details",
       "patterns": [
-        "ask about describe or tell me about the school educational institution ndkc"
+        "about describe or tell me about the school educational institution ndkc"
       ],
       "response": [
         "Notre Dame of Kidapawan College (locally known as NDKC) is a Catholic institution run by the Marist Brothers or FMS (Fratres Maristae a Scholis), a Catholic religious order from France. NDKC is a member of the Notre Dame Educational Association (NDEA), a group of Notre Dame Schools and the Catholic Educational Association of the Philippines (CEAP)."
@@ -315,7 +315,7 @@
     {
       "tag": "Graduate School",
       "patterns": [
-        "inquire or ask about graduate school, ph d phd master masteral program"
+        "inquire or about graduate school, ph d phd master masteral program"
       ],
       "response": [
         "If you have concerns regarding graduate school programs. You can reach the graduate school office thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
@@ -333,7 +333,7 @@
     {
       "tag": "Class Schedule",
       "patterns": [
-        "ask when will the class start begin, first day of class"
+        "when will the class start or begin "
       ],
       "response": [
         "Class schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
@@ -396,7 +396,7 @@
     {
       "tag": "Prospectus",
       "patterns": [
-        "ask copy of prospectus"
+        "copy of prospectus"
       ],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
@@ -414,7 +414,7 @@
     {
       "tag": "Hiring/Job Applications",
       "patterns": [
-        "ask for hiring apply, job application for teachers"
+        "hiring apply, job application for teachers"
       ],
       "response": []
     },
