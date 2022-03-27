@@ -233,7 +233,6 @@
       "tag": "Discounts",
       "patterns": [
         "deducted discount"
-        
       ],
       "response": [
         "Only top 10 honor students can avail of discounts."
@@ -412,21 +411,21 @@
       ]
     },
     {
-      "tag": "Hiring/Job Applications",
+      "tag": "Hiring/ Job Offer",
       "patterns": [
         "hiring apply, job application for teachers"
       ],
       "response": []
     },
     {
-      "tag": "Vocational Courses",
+      "tag": "Vocational Course",
       "patterns": [
-        "vocational"
+        "Vocational"
       ],
       "response": []
     },
     {
-      "tag": "HR Contact",
+      "tag": "HR Contact Details",
       "patterns": [
         "application letter resume"
       ],
