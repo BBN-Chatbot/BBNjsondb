@@ -233,7 +233,6 @@
       "tag": "Discounts",
       "patterns": [
         "deducted discount"
-        
       ],
       "response": [
         "Only top 10 honor students can avail of discounts."
