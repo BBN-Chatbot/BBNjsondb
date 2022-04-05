@@ -305,8 +305,8 @@
     {
       "tag": "Exam Schedule",
       "patterns": [
-        "when is the final exam",
-        "do we have schedule sched midterm for examination"
+        "when is the exam",
+        "do we have schedule sched for examination"
       ],
       "response": [
         "Examination schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
