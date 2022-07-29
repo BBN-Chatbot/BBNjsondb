@@ -60,9 +60,7 @@
     },
     {
       "tag": "Statement of Account",
-      "patterns": [
-        "statement of account soa"
-      ],
+      "patterns": ["statement of account soa"],
       "response": [
         "You can contact the Business Office through:\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm)\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph\n\nFor Statement of Account, you can view your SOA through the student portal : https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/"
       ]
@@ -98,23 +96,13 @@
     },
     {
       "tag": "Deans List",
-      "patterns": [
-        "how to be DL deans lister",
-        "honor list"
-      ],
-      "response": [
-        "We post the Dean's List on the Schools' Bulletin Board"
-      ]
+      "patterns": ["how to be DL deans lister", "honor list"],
+      "response": ["We post the Dean's List on the Schools' Bulletin Board"]
     },
     {
       "tag": "Class Modality",
-      "patterns": [
-        "face face class modality",
-        "still blend learning"
-      ],
-      "response": [
-        "For now, online classes are offered in all courses"
-      ]
+      "patterns": ["face face class modality", "still blend learning"],
+      "response": ["For now, online classes are offered in all courses"]
     },
     {
       "tag": "Online Class",
@@ -129,9 +117,7 @@
     },
     {
       "tag": "Business hours (Registrar)",
-      "patterns": [
-        "when is the registrar, registrars office open"
-      ],
+      "patterns": ["when is the registrar, registrars office open"],
       "response": [
         "The NDKC Registrars Office(open Monday - Friday 8:30 am - 4:30 pm)\n\n If you have other concerns, you can reach the Registrar's Office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
@@ -158,9 +144,7 @@
     },
     {
       "tag": "Grade Inquiry",
-      "patterns": [
-        "how or where will I be able to see, view, have my grades"
-      ],
+      "patterns": ["how or where will I be able to see, view, have my grades"],
       "response": [
         "To view grades, fees, and class schedules, login to www.ndkc.edu.ph or https://schoolmanagementsystem.cloud/globemb/ndkc.college/student/ and provide the following:\na. Student ID Number\nb. Birthdate\nc.Password(your surname in small letters)\n\nNote: For any concern regarding the School Management System (SMS) student account (e.g. student Portal Login), email our SMS Technical support team at mis@ndkc.edu.ph"
       ]
@@ -176,18 +160,14 @@
     },
     {
       "tag": "TOR",
-      "patterns": [
-        "about my TOR"
-      ],
+      "patterns": ["about my TOR"],
       "response": [
         "If you have concerns about TOR,\nthe Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
     },
     {
       "tag": "Diploma",
-      "patterns": [
-        "diploma"
-      ],
+      "patterns": ["diploma"],
       "response": [
         "If you have concerns about Diploma,\nthe Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
@@ -212,29 +192,21 @@
     },
     {
       "tag": "Permit",
-      "patterns": [
-        "get request my permit online",
-        "problems regarding permit"
-      ],
+      "patterns": ["get request my permit online", "problems regarding permit"],
       "response": [
         "Please claim your examination permit in Business Office \n\nIf you have problems or other concern you can contact the Business Office thru the following:\n\nNDKC Business Office:\n Mobile: 0932-795-8915\n Landline:(064) 577-1673 local 136\n Email:finance@ndkc.edu.ph"
       ]
     },
     {
       "tag": "Per Unit Cost",
-      "patterns": [
-        "how much does it cost per unit",
-        "tuition fee per unit"
-      ],
+      "patterns": ["how much does it cost per unit", "tuition fee per unit"],
       "response": [
         "The tuition fee per unit may vary per program and year level.\n\nFor more information you can contact the Business Office\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
       ]
     },
     {
       "tag": "Promissory",
-      "patterns": [
-        "promissory promi"
-      ],
+      "patterns": ["promissory promi"],
       "response": [
         "Schedule of Promissory is 2 - 3 working days before examination schedule\n\nIf you have other concerns or queries please contact the Business office thru the following:\n\nNDKC Business Office(open Monday - Friday 8:30 am - 4:30 pm):\nMobile: 0932-795-8915\nLandline:(064) 577-1673 local 136\nEmail:finance@ndkc.edu.ph"
       ]
@@ -250,12 +222,8 @@
     },
     {
       "tag": "Discounts",
-      "patterns": [
-        "deducted discount"
-      ],
-      "response": [
-        "Only top 10 honor students can avail of discounts."
-      ]
+      "patterns": ["deducted discount"],
+      "response": ["Only top 10 honor students can avail of discounts."]
     },
     {
       "tag": "Enrollment Schedule",
@@ -268,27 +236,19 @@
     },
     {
       "tag": "Enrollment Steps",
-      "patterns": [
-        "steps or how to enroll"
-      ],
+      "patterns": ["steps or how to enroll"],
       "response": [
         "The steps for Enrollment is to be announced.\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcement."
       ]
     },
     {
       "tag": "Intro Question",
-      "patterns": [
-        "can i ask a question"
-      ],
-      "response": [
-        "Yes? How may I help you ?"
-      ]
+      "patterns": ["can i ask a question"],
+      "response": ["Yes? How may I help you ?"]
     },
     {
       "tag": "Entrance Exam",
-      "patterns": [
-        "when schedule sched for online entrance exam examination"
-      ],
+      "patterns": ["when schedule sched for online entrance exam examination"],
       "response": [
         "Entrance Examination schedule is to be announced\n\nPlease visit our NDKC facebook page: https://www.facebook.com/ndkcofficial/ for future announcements."
       ]
@@ -323,12 +283,8 @@
     },
     {
       "tag": "ELMS",
-      "patterns": [
-        "elms"
-      ],
-      "response": [
-        "You can access ELMS on this link: https://elms.ndkcedu.ph/"
-      ]
+      "patterns": ["elms"],
+      "response": ["You can access ELMS on this link: https://elms.ndkcedu.ph/"]
     },
     {
       "tag": "Graduate School",
@@ -350,45 +306,35 @@
     },
     {
       "tag": "Class Schedule",
-      "patterns": [
-        "when will the class start or begin "
-      ],
+      "patterns": ["when will the class start or begin "],
       "response": [
         "Class schedules are usually announced in our NDKC facebook page: https://www.facebook.com/ndkcofficial/"
       ]
     },
     {
       "tag": "Earning Units",
-      "patterns": [
-        "earning units"
-      ],
+      "patterns": ["earning units"],
       "response": [
         "If you have concerns regarding graduate school programs. You can reach the graduate school office thru the following:\n\nMobile No.: 0931-187-4617\nLandline: (064)577-1673 local 122\nEmail: graduateschool@ndkc.edu.ph"
       ]
     },
     {
       "tag": "ID",
-      "patterns": [
-        "id"
-      ],
+      "patterns": ["id"],
       "response": [
         "If you have any concerns regarding your ID.\nYou may come and visit the Media Production Center located at the Br. Renato Cruz,FMS Building(near college gate)"
       ]
     },
     {
       "tag": "Location",
-      "patterns": [
-        "find location or school address of ndkc"
-      ],
+      "patterns": ["find location or school address of ndkc"],
       "response": [
         "NDKC is located at Datu Ingkal Street, Poblacion, Kidapawan City, North Cotabato"
       ]
     },
     {
       "tag": "Clearance",
-      "patterns": [
-        "clearance"
-      ],
+      "patterns": ["clearance"],
       "response": [
         "Please secure your clearance from the office of the Registrar.\n\nSubmit your clearance with complete signatures to the office of the Registrar before you will be issued a permit for Final Examination."
       ]
@@ -396,7 +342,7 @@
     {
       "tag": "Vice Pres Details",
       "patterns": [
-        "about what is the contact details number email of deans office, vice president vp for academic affairs"
+        "about what is the contact details number email of deans dean office, vice president vp for academic affairs"
       ],
       "response": [
         "You can reach us thru the following:\n\nOffice of the Vice President for Academics:\n\nMobile No.: 0951-305-2472\nLandline: 577-1673 local 121"
@@ -413,48 +359,36 @@
     },
     {
       "tag": "Prospectus",
-      "patterns": [
-        "copy of prospectus"
-      ],
+      "patterns": ["copy of prospectus"],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
     },
     {
       "tag": "Credentials",
-      "patterns": [
-        "credentials"
-      ],
+      "patterns": ["credentials"],
       "response": [
         "The Office of the College Registrar is open on weekdays from 8:00 am to 4:30 pm to cater your requests. For more details contact the office thru the following:\n\nMobile No.: 0923-955-5278\nLandline: (064)577-1673 local 118\nEmail:registrar@ndkc.edu.ph\n\nNote:\na. Processing of requests is seven (7) working days.\nb. Authentication is within the day in the presence of the signatory.\nc. If a request is through a representative, authorization letter is required.\n-Authorization letter is valid only for specific request.\n-It should contain identity of the document owner(name, birthdate, period of stay in school or year graduated),the name of the representative and the relationship to the owner of the record, the requested, the number of copies and the purpose of the document sought.\n-Sufficient proof of identity must be established both for the owner and the representative(at least two valid identification cards from both)."
       ]
     },
     {
       "tag": "Hiring/ Job Offer",
-      "patterns": [
-        "hiring apply, job application for teachers"
-      ],
+      "patterns": ["hiring apply, job application for teachers"],
       "response": []
     },
     {
       "tag": "Vocational Course",
-      "patterns": [
-        "Vocational"
-      ],
+      "patterns": ["Vocational"],
       "response": []
     },
     {
       "tag": "HR Contact Details",
-      "patterns": [
-        "application letter resume"
-      ],
+      "patterns": ["application letter resume"],
       "response": []
     },
     {
       "tag": "Year Book Concerns",
-      "patterns": [
-        "how much for year book yearbook"
-      ],
+      "patterns": ["year book yearbook"],
       "response": []
     }
   ]
