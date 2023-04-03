@@ -102,7 +102,7 @@
     {
       "tag": "Class Modality",
       "patterns": ["face face class modality", "still blend learning"],
-      "response": ["For now, online classes are offered in all courses"]
+      "response": ["All courses are face-to-face only."]
     },
     {
       "tag": "Online Class",
@@ -112,7 +112,7 @@
         "what are required apps application to use in online class"
       ],
       "response": [
-        "As of now, only online classes are offered in all programs.\n\n*note: Please be advised that application that are usually used in online classes are:\n-Google Classroom\n-Google Meet\n-Zoom"
+        "From now on, all courses will be face-to-face only."
       ]
     },
     {
